@@ -1,0 +1,887 @@
+﻿{
+  "paragraphs": [
+    {
+      "title": "Check Spark Version",
+      "text": "%spark \n\nspark.version",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:25:55+0000",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "title": true,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u001b[1m\u001b[34mres18\u001b[0m: \u001b[1m\u001b[32mString\u001b[0m = 2.4.5\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339245_494738928",
+      "id": "paragraph_1632423024748_270611122",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T14:25:55+0000",
+      "dateFinished": "2021-09-29T14:25:55+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:18680"
+    },
+    {
+      "text": "%md\n\nHEY HEY\n",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:27:45+0000",
+      "progress": 0,
+      "config": {
+        "tableHide": false,
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/markdown",
+        "fontSize": 9,
+        "editorHide": true,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "<div class=\"markdown-body\">\n<p>HEY HEY</p>\n\n</div>"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632925658338_1237324841",
+      "id": "paragraph_1632925658338_1237324841",
+      "dateCreated": "2021-09-29T14:27:38+0000",
+      "dateStarted": "2021-09-29T14:27:45+0000",
+      "dateFinished": "2021-09-29T14:27:50+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18681"
+    },
+    {
+      "title": "Download Data Files From Git",
+      "text": "%sh\n\nwget https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/dai-usd-max.csv\nwget https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/bnb-usd-max.csv\nwget https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/usdc-usd-max.csv\nwget https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/usdt-usd-max.csv\nwget https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/EthereumHistoricalData.csv\nwget https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/ETH_1H.csv\n\nls *.csv",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:28:08+0000",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "sh",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/sh",
+        "fontSize": 9,
+        "title": true,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "--2021-09-29 14:28:08--  https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/dai-usd-max.csv\nResolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...\nConnecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.\nHTTP request sent, awaiting response... 200 OK\nLength: 53634 (52K) [text/plain]\nSaving to: ‘dai-usd-max.csv.1’\n\n     0K .......... .......... .......... .......... .......... 95% 1.97M 0s\n    50K ..                                                    100% 23.2M=0.02s\n\n2021-09-29 14:28:08 (2.05 MB/s) - ‘dai-usd-max.csv.1’ saved [53634/53634]\n\n--2021-09-29 14:28:08--  https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/bnb-usd-max.csv\nResolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...\nConnecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.\nHTTP request sent, awaiting response... 200 OK\nLength: 116064 (113K) [text/plain]\nSaving to: ‘bnb-usd-max.csv.1’\n\n     0K .......... .......... .......... .......... .......... 44% 4.16M 0s\n    50K .......... .......... .......... .......... .......... 88% 3.69M 0s\n   100K .......... ...                                        100% 45.5M=0.03s\n\n2021-09-29 14:28:09 (4.38 MB/s) - ‘bnb-usd-max.csv.1’ saved [116064/116064]\n\n--2021-09-29 14:28:09--  https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/usdc-usd-max.csv\nResolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...\nConnecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.\nHTTP request sent, awaiting response... 200 OK\nLength: 86081 (84K) [text/plain]\nSaving to: ‘usdc-usd-max.csv.1’\n\n     0K .......... .......... .......... .......... .......... 59% 3.78M 0s\n    50K .......... .......... .......... ....                 100% 2.14M=0.03s\n\n2021-09-29 14:28:09 (2.88 MB/s) - ‘usdc-usd-max.csv.1’ saved [86081/86081]\n\n--2021-09-29 14:28:09--  https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/usdt-usd-max.csv\nResolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...\nConnecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.\nHTTP request sent, awaiting response... 200 OK\nLength: 158432 (155K) [text/plain]\nSaving to: ‘usdt-usd-max.csv.1’\n\n     0K .......... .......... .......... .......... .......... 32% 3.77M 0s\n    50K .......... .......... .......... .......... .......... 64% 10.4M 0s\n   100K .......... .......... .......... .......... .......... 96% 4.46M 0s\n   150K ....                                                  100% 84.2M=0.03s\n\n2021-09-29 14:28:09 (5.28 MB/s) - ‘usdt-usd-max.csv.1’ saved [158432/158432]\n\n--2021-09-29 14:28:09--  https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/EthereumHistoricalData.csv\nResolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...\nConnecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.\nHTTP request sent, awaiting response... 200 OK\nLength: 114068 (111K) [text/plain]\nSaving to: ‘EthereumHistoricalData.csv.1’\n\n     0K .......... .......... .......... .......... .......... 44% 4.54M 0s\n    50K .......... .......... .......... .......... .......... 89% 6.75M 0s\n   100K .......... .                                          100% 15.3M=0.02s\n\n2021-09-29 14:28:09 (5.81 MB/s) - ‘EthereumHistoricalData.csv.1’ saved [114068/114068]\n\n--2021-09-29 14:28:09--  https://raw.githubusercontent.com/BrooksIan/ETH2Stablecoin/main/ETH_1H.csv\nResolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...\nConnecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.\nHTTP request sent, awaiting response... 200 OK\nLength: 2640668 (2.5M) [text/plain]\nSaving to: ‘ETH_1H.csv.1’\n\n     0K .......... .......... .......... .......... ..........  1% 4.72M 1s\n    50K .......... .......... .......... .......... ..........  3% 2.85M 1s\n   100K .......... .......... .......... .......... ..........  5% 41.7M 0s\n   150K .......... .......... .......... .......... ..........  7% 4.14M 0s\n   200K .......... .......... .......... .......... ..........  9% 23.5M 0s\n   250K .......... .......... .......... .......... .......... 11% 14.8M 0s\n   300K .......... .......... .......... .......... .......... 13% 5.25M 0s\n   350K .......... .......... .......... .......... .......... 15% 14.7M 0s\n   400K .......... .......... .......... .......... .......... 17% 18.0M 0s\n   450K .......... .......... .......... .......... .......... 19% 27.1M 0s\n   500K .......... .......... .......... .......... .......... 21% 28.8M 0s\n   550K .......... .......... .......... .......... .......... 23% 18.8M 0s\n   600K .......... .......... .......... .......... .......... 25% 22.1M 0s\n   650K .......... .......... .......... .......... .......... 27% 11.7M 0s\n   700K .......... .......... .......... .......... .......... 29% 19.1M 0s\n   750K .......... .......... .......... .......... .......... 31% 20.3M 0s\n   800K .......... .......... .......... .......... .......... 32% 23.7M 0s\n   850K .......... .......... .......... .......... .......... 34% 22.1M 0s\n   900K .......... .......... .......... .......... .......... 36% 31.2M 0s\n   950K .......... .......... .......... .......... .......... 38% 33.6M 0s\n  1000K .......... .......... .......... .......... .......... 40% 13.0M 0s\n  1050K .......... .......... .......... .......... .......... 42% 21.5M 0s\n  1100K .......... .......... .......... .......... .......... 44% 33.1M 0s\n  1150K .......... .......... .......... .......... .......... 46% 32.6M 0s\n  1200K .......... .......... .......... .......... .......... 48% 36.5M 0s\n  1250K .......... .......... .......... .......... .......... 50% 26.6M 0s\n  1300K .......... .......... .......... .......... .......... 52% 45.1M 0s\n  1350K .......... .......... .......... .......... .......... 54% 52.4M 0s\n  1400K .......... .......... .......... .......... .......... 56% 53.4M 0s\n  1450K .......... .......... .......... .......... .......... 58% 19.7M 0s\n  1500K .......... .......... .......... .......... .......... 60% 21.7M 0s\n  1550K .......... .......... .......... .......... .......... 62% 13.0M 0s\n  1600K .......... .......... .......... .......... .......... 63% 3.43M 0s\n  1650K .......... .......... .......... .......... .......... 65% 15.0M 0s\n  1700K .......... .......... .......... .......... .......... 67% 10.7M 0s\n  1750K .......... .......... .......... .......... .......... 69% 17.2M 0s\n  1800K .......... .......... .......... .......... .......... 71% 23.7M 0s\n  1850K .......... .......... .......... .......... .......... 73% 38.1M 0s\n  1900K .......... .......... .......... .......... .......... 75% 46.7M 0s\n  1950K .......... .......... .......... .......... .......... 77% 14.5M 0s\n  2000K .......... .......... .......... .......... .......... 79% 42.2M 0s\n  2050K .......... .......... .......... .......... .......... 81% 14.3M 0s\n  2100K .......... .......... .......... .......... .......... 83% 9.67M 0s\n  2150K .......... .......... .......... .......... .......... 85% 19.3M 0s\n  2200K .......... .......... .......... .......... .......... 87% 46.2M 0s\n  2250K .......... .......... .......... .......... .......... 89% 15.8M 0s\n  2300K .......... .......... .......... .......... .......... 91% 11.3M 0s\n  2350K .......... .......... .......... .......... .......... 93% 24.9M 0s\n  2400K .......... .......... .......... .......... .......... 95% 41.3M 0s\n  2450K .......... .......... .......... .......... .......... 96% 40.5M 0s\n  2500K .......... .......... .......... .......... .......... 98% 45.6M 0s\n  2550K .......... .......... ........                        100% 57.7M=0.2s\n\nbnb-usd-max.cs20v\nda21-09-29i-usd-m 14:ax28.c:1sv0 \nETH_1H.csv\nEthereumHistoricalData.c(1sv4\nusdc-usd-max.csv\nusdt-usd-max.csv\n.9 MB/s) - ‘ETH_1H.csv.1’ saved [2640668/2640668]\n\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339246_980587618",
+      "id": "paragraph_1632423084769_917099327",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T14:28:08+0000",
+      "dateFinished": "2021-09-29T14:28:10+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18682"
+    },
+    {
+      "title": "Prepare DAI Data Set",
+      "text": "%spark\n\nval df_rawDAI = spark.read.option(\"inferSchema\", \"true\").option(\"header\", \"true\").csv(\"dai-usd-max.csv\")\n\nval df_DAI = df_rawDAI\n    .withColumnRenamed(\"snapped_at\",\"DAI_snapped_at\")\n    .withColumnRenamed(\"price\",\"DAI_price\")\n    .withColumnRenamed(\"market_cap\",\"DAI_market_cap\")\n    .withColumnRenamed(\"total_volume\",\"DAI_total_volume\")\n    .withColumn(\"DAI_timestamp\", unix_timestamp($\"DAI_snapped_at\"))\n\ndf_DAI.printSchema()\ndf_DAI.take(2)",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:30:19+0000",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 6,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "title": true,
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "table",
+              "height": 190,
+              "optionOpen": false
+            }
+          }
+        },
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "root\n |-- DAI_snapped_at: string (nullable = true)\n |-- DAI_price: double (nullable = true)\n |-- DAI_market_cap: double (nullable = true)\n |-- DAI_total_volume: double (nullable = true)\n |-- DAI_timestamp: long (nullable = true)\n\n\u001b[1m\u001b[34mdf_rawDAI\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [snapped_at: string, price: double ... 2 more fields]\n\u001b[1m\u001b[34mdf_DAI\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [DAI_snapped_at: string, DAI_price: double ... 3 more fields]\n\u001b[1m\u001b[34mres21\u001b[0m: \u001b[1m\u001b[32mArray[org.apache.spark.sql.Row]\u001b[0m = Array([2019-11-19 00:00:00 UTC,1.000650588888066,1437645.8836350194,872764.2021398307,1574121600], [2019-11-20 00:00:00 UTC,0.9954110116644869,6945898.406513857,4841468.5490625035,1574208000])\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=121",
+              "$$hashKey": "object:20316"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=122",
+              "$$hashKey": "object:20317"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=123",
+              "$$hashKey": "object:20318"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=124",
+              "$$hashKey": "object:20319"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339246_455506203",
+      "id": "paragraph_1632424016300_1468498874",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T14:29:53+0000",
+      "dateFinished": "2021-09-29T14:29:55+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18683"
+    },
+    {
+      "title": "Prepare BNB Data Set",
+      "text": "%spark\n\nval df_rawBNB = spark.read.option(\"inferSchema\", \"true\").option(\"header\", \"true\").csv(\"bnb-usd-max.csv\")\n\nval df_BNB = df_rawBNB\n    .withColumnRenamed(\"snapped_at\",\"BNB_snapped_at\")\n    .withColumnRenamed(\"price\",\"BNB_price\")\n    .withColumnRenamed(\"market_cap\",\"BNB_market_cap\")\n    .withColumnRenamed(\"total_volume\",\"BNB_total_volume\")\n    .withColumn(\"BNB_timestamp\", unix_timestamp($\"BNB_snapped_at\"))\ndf_BNB.printSchema()\ndf_BNB.take(2)",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:31:39+0000",
+      "progress": 100,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 6,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "title": true,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "root\n |-- BNB_snapped_at: string (nullable = true)\n |-- BNB_price: double (nullable = true)\n |-- BNB_market_cap: double (nullable = true)\n |-- BNB_total_volume: double (nullable = true)\n |-- BNB_timestamp: long (nullable = true)\n\n\u001b[1m\u001b[34mdf_rawBNB\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [snapped_at: string, price: double ... 2 more fields]\n\u001b[1m\u001b[34mdf_BNB\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [BNB_snapped_at: string, BNB_price: double ... 3 more fields]\n\u001b[1m\u001b[34mres22\u001b[0m: \u001b[1m\u001b[32mArray[org.apache.spark.sql.Row]\u001b[0m = Array([2017-09-16 00:00:00 UTC,0.10725062436515388,1.0725062436515387E7,1.0512233074868058,1505520000], [2017-09-17 00:00:00 UTC,0.15404129090981247,1.5404129090981247E7,14.678587222975718,1505606400])\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=125",
+              "$$hashKey": "object:20400"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=126",
+              "$$hashKey": "object:20401"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=127",
+              "$$hashKey": "object:20402"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339246_285487388",
+      "id": "paragraph_1632424167992_1051056893",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T14:31:39+0000",
+      "dateFinished": "2021-09-29T14:31:40+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18684"
+    },
+    {
+      "title": "Prepare USDC Data Set",
+      "text": "%spark\n\nval df_rawUSDC = spark.read.option(\"inferSchema\", \"true\").option(\"header\", \"true\").csv(\"usdc-usd-max.csv\")\n\nval df_USDC = df_rawUSDC\n    .withColumnRenamed(\"snapped_at\",\"USDC_snapped_at\")\n    .withColumnRenamed(\"price\",\"USDC_price\")\n    .withColumnRenamed(\"market_cap\",\"USDC_market_cap\")\n    .withColumnRenamed(\"total_volume\",\"USDC_total_volume\")\n    .withColumn(\"USDC_timestamp\", unix_timestamp($\"USDC_snapped_at\"))\ndf_USDC.printSchema()\ndf_USDC.take(2)",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:31:44+0000",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 6,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "title": true,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "root\n |-- USDC_snapped_at: string (nullable = true)\n |-- USDC_price: double (nullable = true)\n |-- USDC_market_cap: double (nullable = true)\n |-- USDC_total_volume: double (nullable = true)\n |-- USDC_timestamp: long (nullable = true)\n\n\u001b[1m\u001b[34mdf_rawUSDC\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [snapped_at: string, price: double ... 2 more fields]\n\u001b[1m\u001b[34mdf_USDC\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [USDC_snapped_at: string, USDC_price: double ... 3 more fields]\n\u001b[1m\u001b[34mres24\u001b[0m: \u001b[1m\u001b[32mArray[org.apache.spark.sql.Row]\u001b[0m = Array([2018-10-05 00:00:00 UTC,1.0062418761688314,0.0,31264.420429900205,1538697600], [2018-10-06 00:00:00 UTC,1.0015295223068545,0.0,20254.71225490974,1538784000])\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=131",
+              "$$hashKey": "object:20552"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=132",
+              "$$hashKey": "object:20553"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=133",
+              "$$hashKey": "object:20554"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339246_169145543",
+      "id": "paragraph_1632424876525_1985801439",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T14:31:44+0000",
+      "dateFinished": "2021-09-29T14:31:45+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18685"
+    },
+    {
+      "title": "Prepare USDT Data Set",
+      "text": "%spark\n\nimport org.apache.spark.sql.functions.{to_date, to_timestamp}\n\n\nval df_rawUSDT = spark.read.option(\"inferSchema\", \"true\").option(\"header\", \"true\").csv(\"usdt-usd-max.csv\")\nval df_USDT = df_rawUSDT\n    .withColumnRenamed(\"snapped_at\",\"USDT_snapped_at\")\n    .withColumnRenamed(\"price\",\"USDT_price\")\n    .withColumnRenamed(\"market_cap\",\"USDT_market_cap\")\n    .withColumnRenamed(\"total_volume\",\"USDT_total_volume\")\n    .withColumn(\"USDT_timestamp\", unix_timestamp($\"USDT_snapped_at\"))\ndf_USDT.printSchema()\ndf_USDT.take(2)",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:31:42+0000",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 6,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "title": true,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "root\n |-- USDT_snapped_at: string (nullable = true)\n |-- USDT_price: double (nullable = true)\n |-- USDT_market_cap: double (nullable = true)\n |-- USDT_total_volume: double (nullable = true)\n |-- USDT_timestamp: long (nullable = true)\n\nimport org.apache.spark.sql.functions.{to_date, to_timestamp}\n\u001b[1m\u001b[34mdf_rawUSDT\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [snapped_at: string, price: double ... 2 more fields]\n\u001b[1m\u001b[34mdf_USDT\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [USDT_snapped_at: string, USDT_price: double ... 3 more fields]\n\u001b[1m\u001b[34mres23\u001b[0m: \u001b[1m\u001b[32mArray[org.apache.spark.sql.Row]\u001b[0m = Array([2015-02-25 00:00:00 UTC,1.21016,304476.0,5.0,1424822400], [2015-03-02 00:00:00 UTC,0.572521,144046.0,2.0,1425254400])\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=128",
+              "$$hashKey": "object:20476"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=129",
+              "$$hashKey": "object:20477"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=130",
+              "$$hashKey": "object:20478"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339246_379047608",
+      "id": "paragraph_1632424909394_1684949674",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T14:31:42+0000",
+      "dateFinished": "2021-09-29T14:31:43+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18686"
+    },
+    {
+      "title": "Prepare ETH Historical Price Data",
+      "text": "%spark\n\nval df_rawETHPriceAction = spark.read.option(\"inferSchema\", \"true\").option(\"header\", \"true\").csv(\"EthereumHistoricalData.csv\")\n\ndf_rawETHPriceAction.printSchema()\ndf_rawETHPriceAction.take(1)",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:32:26+0000",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 6,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "title": true,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "root\n |-- Date: string (nullable = true)\n |-- Price: string (nullable = true)\n |-- Open: string (nullable = true)\n |-- High: string (nullable = true)\n |-- Low: string (nullable = true)\n |-- Vol.: string (nullable = true)\n |-- Change %: string (nullable = true)\n\n\u001b[1m\u001b[34mdf_rawETHPriceAction\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [Date: string, Price: string ... 5 more fields]\n\u001b[1m\u001b[34mres25\u001b[0m: \u001b[1m\u001b[32mArray[org.apache.spark.sql.Row]\u001b[0m = Array([Sep 11, 2021,3,242.10,3,209.37,3,296.07,3,202.41,1.19M,1.09%])\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=134",
+              "$$hashKey": "object:20631"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=135",
+              "$$hashKey": "object:20632"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=136",
+              "$$hashKey": "object:20633"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339247_1390390873",
+      "id": "paragraph_1632862113120_558434388",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T14:32:26+0000",
+      "dateFinished": "2021-09-29T14:32:27+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18687"
+    },
+    {
+      "title": "Prepare ETH Historical Price Data",
+      "text": "%spark\n\nval df_rawETHPriceAction = spark.read.option(\"inferSchema\", \"true\").option(\"header\", \"true\").csv(\"ETH_1H.csv\")\nval df_ETH = df_rawETHPriceAction.withColumn(\"Etimestamp\", unix_timestamp($\"Date\"))\n\ndf_ETH.printSchema()\ndf_ETH.take(1)",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:32:27+0000",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 6,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "editorHide": false,
+        "title": true,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "root\n |-- Unix Timestamp: long (nullable = true)\n |-- Date: timestamp (nullable = true)\n |-- Symbol: string (nullable = true)\n |-- Open: double (nullable = true)\n |-- High: double (nullable = true)\n |-- Low: double (nullable = true)\n |-- Close: double (nullable = true)\n |-- Volume: double (nullable = true)\n |-- Etimestamp: long (nullable = true)\n\n\u001b[1m\u001b[34mdf_rawETHPriceAction\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [Unix Timestamp: bigint, Date: timestamp ... 6 more fields]\n\u001b[1m\u001b[34mdf_ETH\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [Unix Timestamp: bigint, Date: timestamp ... 7 more fields]\n\u001b[1m\u001b[34mres26\u001b[0m: \u001b[1m\u001b[32mArray[org.apache.spark.sql.Row]\u001b[0m = Array([1586995200000,2020-04-16 00:00:00.0,ETHUSD,152.94,152.94,150.39,150.39,650.188125,1586995200])\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=137",
+              "$$hashKey": "object:20707"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=138",
+              "$$hashKey": "object:20708"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=139",
+              "$$hashKey": "object:20709"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339247_1903873475",
+      "id": "paragraph_1632862201403_1056392216",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T14:32:27+0000",
+      "dateFinished": "2021-09-29T14:32:29+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18688"
+    },
+    {
+      "text": "%spark\n\nval df_joinedSet1 = df_DAI.join(df_BNB,df_DAI(\"DAI_timestamp\") ===  df_BNB(\"BNB_timestamp\"),\"left\")\n    .drop(\"DAI_snapped_at\")\n    .drop(\"BNB_snapped_at\")\n    .drop(\"BNB_timestamp\")\n\nval df_joinedSet2 = df_joinedSet1.join(df_USDC, df_joinedSet1(\"DAI_timestamp\") ===  df_USDC(\"USDC_timestamp\"),\"left\")\n    .drop(\"USDC_snapped_at\")\n    .drop(\"USDC_timestamp\")\n\nval df_joinedSet3 = df_joinedSet2.join(df_USDT, df_joinedSet2(\"DAI_timestamp\") ===  df_USDT(\"USDT_timestamp\"),\"left\")\n    .drop(\"USDT_snapped_at\")\n    .drop(\"USDT_timestamp\")\n    .drop(\"DAI_price\")\n    .drop(\"BNB_price\")\n    .drop(\"USDT_price\")\n    .drop(\"USDC_price\")\n    .withColumnRenamed(\"DAI_timestamp\",\"timestamp\")\n  \nval df_joinedSet4 = df_joinedSet3.join(df_ETH, df_joinedSet3(\"timestamp\") ===  df_ETH(\"Etimestamp\"),\"inner\")\n    .drop(\"Unix Timestamp\")\n    .drop(\"Date\")\n    .drop(\"Symbol\")\n    .drop(\"Open\")\n    .drop(\"High\")\n    .drop(\"Low\")\n    .withColumnRenamed(\"Close\", \"ETH_Close\")\n    .withColumnRenamed(\"Volume\", \"ETH_Volume\")\n\ndf_joinedSet4.printSchema()\ndf_joinedSet4.take(1)\n",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:34:29+0000",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "root\n |-- DAI_market_cap: double (nullable = true)\n |-- DAI_total_volume: double (nullable = true)\n |-- timestamp: long (nullable = true)\n |-- BNB_market_cap: double (nullable = true)\n |-- BNB_total_volume: double (nullable = true)\n |-- USDC_market_cap: double (nullable = true)\n |-- USDC_total_volume: double (nullable = true)\n |-- USDT_market_cap: double (nullable = true)\n |-- USDT_total_volume: double (nullable = true)\n |-- ETH_Close: double (nullable = true)\n |-- ETH_Volume: double (nullable = true)\n |-- Etimestamp: long (nullable = true)\n\n\u001b[1m\u001b[34mdf_joinedSet1\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [DAI_price: double, DAI_market_cap: double ... 5 more fields]\n\u001b[1m\u001b[34mdf_joinedSet2\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [DAI_price: double, DAI_market_cap: double ... 8 more fields]\n\u001b[1m\u001b[34mdf_joinedSet3\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [DAI_market_cap: double, DAI_total_volume: double ... 7 more fields]\n\u001b[1m\u001b[34mdf_joinedSet4\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [DAI_market_cap: double, DAI_total_volume: double ... 10 more fields]\n\u001b[1m\u001b[34mres27\u001b[0m: \u001b[1m\u001b[32mArray[org.apache.spark.sql.Row]\u001b[0m = Array([1437645.8836350194,872764.2021398307,1574121600,2.9298750344438725E9,1.9463628651297405E8,4.4461608446138656E8,2.6314471089135104E8,4.289846713960536E9,2.8356386247..."
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=140",
+              "$$hashKey": "object:20834"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=141",
+              "$$hashKey": "object:20835"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=142",
+              "$$hashKey": "object:20836"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=143",
+              "$$hashKey": "object:20837"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=144",
+              "$$hashKey": "object:20838"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339247_1113757392",
+      "id": "paragraph_1632851929257_1395382651",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T14:34:29+0000",
+      "dateFinished": "2021-09-29T14:34:31+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18689"
+    },
+    {
+      "text": "%spark\n",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:35:30+0000",
+      "progress": 0,
+      "config": {
+        "colWidth": 12,
+        "fontSize": 9,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632926130009_672958989",
+      "id": "paragraph_1632926130009_672958989",
+      "dateCreated": "2021-09-29T14:35:30+0000",
+      "status": "READY",
+      "focus": true,
+      "$$hashKey": "object:20859"
+    },
+    {
+      "text": "%spark\n\nimport org.apache.spark.ml.linalg.{Matrix, Vectors, Vector}\nimport org.apache.spark.ml.stat.Correlation\nimport org.apache.spark.ml.stat.ChiSquareTest\nimport org.apache.spark.sql.Row\nimport org.apache.spark.ml.feature.VectorAssembler\nimport org.apache.spark.ml.linalg.Vectors\n\n\n//  .setInputCols(Array(\"DAI_total_volume\", \"BNB_market_cap\", \"BNB_total_volume\", \"USDC_market_cap\", \"USDC_total_volume\", \"USDT_market_cap\", \"USDT_total_volume\"))\n\n\nval assembler = new VectorAssembler()\n  .setInputCols(Array(\"ETH_Volume\",\"DAI_total_volume\", \"DAI_market_cap\", \"USDC_total_volume\",  \"USDC_market_cap\" , \"USDT_total_volume\",  \"USDT_market_cap\"))\n  .setOutputCol(\"features\")\n\nval vect_dfRaw = assembler.transform(df_joinedSet4)\n\nval Row(coeff1: Matrix) = Correlation.corr(vect_dfRaw, \"features\").head\nprintln(\"Pearson correlation matrix:\\n\" + coeff1.toString)\n\nval Row(coeff2: Matrix) = Correlation.corr(vect_dfRaw, \"features\", \"spearman\").head\nprintln(\"Spearman correlation matrix:\\n\" + coeff2.toString)\n",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:35:45+0000",
+      "progress": 100,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Pearson correlation matrix:\n1.0                 0.48059217880015      0.2552684202082926    ... (7 total)\n0.48059217880015    1.0                   0.41337657994475857   ...\n0.2552684202082926  0.41337657994475857   1.0                   ...\n0.3145661704919797  0.5130566500188657    0.6913337773259424    ...\n0.1584673644121529  0.08624566395502312   -0.05926316812961999  ...\n0.240981729071695   0.4763604542214828    0.7156547193375296    ...\n0.0632578816134857  -0.01397702962368472  0.04636056532136823   ...\nSpearman correlation matrix:\n1.0                  0.5143151272181242    0.39518923609767415   ... (7 total)\n0.5143151272181242   1.0                   0.6946459842659807    ...\n0.39518923609767415  0.6946459842659807    1.0                   ...\n0.4879019718125038   0.8140397350993241    0.7482021423174274    ...\n0.09163352291657435  -0.10136094937553357  -0.4470118671942061   ...\n0.4271958074230827   0.8086172718786544    0.7568496377615723    ...\n0.09730161253914778  0.061949419974303394  -0.18750166674064628  ...\nimport org.apache.spark.ml.linalg.{Matrix, Vectors, Vector}\nimport org.apache.spark.ml.stat.Correlation\nimport org.apache.spark.ml.stat.ChiSquareTest\nimport org.apache.spark.sql.Row\nimport org.apache.spark.ml.feature.VectorAssembler\nimport org.apache.spark.ml.linalg.Vectors\n\u001b[1m\u001b[34massembler\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.ml.feature.VectorAssembler\u001b[0m = vecAssembler_3e045e66d233\n\u001b[1m\u001b[34mvect_dfRaw\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.DataFrame\u001b[0m = [DAI_market_cap: double, DAI_total_volume: double ... 11 more fields]\n\u001b[1m\u001b[34mcoeff1\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.ml.linalg.Matrix\u001b[0m =\n1.0                 0.48059217880015      0.2552684202082926    ... (7 total)\n0.48059217880015    1.0                   0.41337657994475857   ...\n0.2552684202082926  0.41337657994475857   1.0           ..."
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=145",
+              "$$hashKey": "object:21488"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=146",
+              "$$hashKey": "object:21489"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=147",
+              "$$hashKey": "object:21490"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=148",
+              "$$hashKey": "object:21491"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=149",
+              "$$hashKey": "object:21492"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=150",
+              "$$hashKey": "object:21493"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=151",
+              "$$hashKey": "object:21494"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=152",
+              "$$hashKey": "object:21495"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=153",
+              "$$hashKey": "object:21496"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=154",
+              "$$hashKey": "object:21497"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=155",
+              "$$hashKey": "object:21498"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=156",
+              "$$hashKey": "object:21499"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=157",
+              "$$hashKey": "object:21500"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=158",
+              "$$hashKey": "object:21501"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339247_683924414",
+      "id": "paragraph_1632424946442_122844668",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T14:35:45+0000",
+      "dateFinished": "2021-09-29T14:35:48+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18690"
+    },
+    {
+      "text": "%spark\n\nimport org.apache.spark.ml.linalg.{Vector}\n\nval chi = ChiSquareTest.test(vect_dfRaw, \"features\", \"ETH_Volume\").head\nprintln(s\"pValues = ${chi.getAs[Vector](0)}\")\nprintln(s\"degreesOfFreedom ${chi.getSeq[Int](1).mkString(\"[\", \",\", \"]\")}\")\nprintln(s\"statistics ${chi.getAs[Vector](2)}\")",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T14:40:36+0000",
+      "progress": 100,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "pValues = [5.454324103482122E-7,0.24371336075079908,0.24371336075078398,0.24371336075075556,0.24371336075079908,0.24371336075080374,0.24371336075079908]\ndegreesOfFreedom [20449,21307,21307,21307,21307,21307,21307]\nstatistics [21450.00000000475,21450.000000004948,21450.00000000497,21450.00000000501,21450.000000004948,21450.00000000494,21450.000000004948]\nimport org.apache.spark.ml.linalg.Vector\n\u001b[1m\u001b[34mchi\u001b[0m: \u001b[1m\u001b[32morg.apache.spark.sql.Row\u001b[0m = [[5.454324103482122E-7,0.24371336075079908,0.24371336075078398,0.24371336075075556,0.24371336075079908,0.24371336075080374,0.24371336075079908],WrappedArray(20449, 21307, 21307, 21307, 21307, 21307, 21307),[21450.00000000475,21450.000000004948,21450.00000000497,21450.00000000501,21450.000000004948,21450.00000000494,21450.000000004948]]\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=159",
+              "$$hashKey": "object:21697"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=160",
+              "$$hashKey": "object:21698"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=161",
+              "$$hashKey": "object:21699"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=162",
+              "$$hashKey": "object:21700"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=163",
+              "$$hashKey": "object:21701"
+            },
+            {
+              "jobUrl": "http://abdbfa82c0d5:4040/jobs/job?id=164",
+              "$$hashKey": "object:21702"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339247_460782145",
+      "id": "paragraph_1632851141271_1424157885",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T14:40:36+0000",
+      "dateFinished": "2021-09-29T14:40:39+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18691"
+    },
+    {
+      "text": "%spark\n",
+      "user": "anonymous",
+      "dateUpdated": "2021-09-29T13:49:54+0000",
+      "progress": 0,
+      "config": {
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "colWidth": 12,
+        "editorMode": "ace/mode/scala",
+        "fontSize": 9,
+        "results": {},
+        "enabled": true
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": []
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1632923339247_1094476009",
+      "id": "paragraph_1632860588851_941361176",
+      "dateCreated": "2021-09-29T13:48:59+0000",
+      "dateStarted": "2021-09-29T13:49:54+0000",
+      "dateFinished": "2021-09-29T13:49:55+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:18692"
+    }
+  ],
+  "name": "Stable Coins",
+  "id": "2GKM28UMV",
+  "defaultInterpreterGroup": "spark",
+  "version": "0.10.0",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {},
+  "config": {
+    "isZeppelinNotebookCronEnable": false,
+    "looknfeel": "default",
+    "personalizedMode": "false"
+  },
+  "info": {
+    "isRunning": false
+  },
+  "path": "/Stable Coins"
+}
