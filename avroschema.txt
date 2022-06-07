@@ -1,0 +1,1 @@
+{"type":"record","name":"Tweets","fields":[{"name":"t_timestamp","type":"string"},{"name":"t_userid","type":"string"},{"name":"t_tweetid","type":"string"},{"name":"t_lang","type":"string"},{"name":"t_text","type":"string"}]}
