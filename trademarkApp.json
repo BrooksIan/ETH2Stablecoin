@@ -1,0 +1,762 @@
+{
+  "version": {
+    "version-no": "2.0",
+    "version-date": "20041108"
+  },
+  "creation-datetime": "202207062245",
+  "application-information": {
+    "file-segments": {
+      "file-segment": "TRMK",
+      "action-keys": {
+        "action-key": "IB",
+        "case-file": [
+          {
+            "serial-number": "72141753",
+            "registration-number": "0754815",
+            "transaction-date": "20220706",
+            "case-file-header": {
+              "filing-date": "19620406",
+              "registration-date": "19630820",
+              "status-code": "800",
+              "status-date": "20130823",
+              "mark-identification": "PORON",
+              "mark-drawing-code": "1000",
+              "attorney-docket-number": "RT2881139TA2",
+              "attorney-name": "George A. Pelletier, Jr.",
+              "principal-register-amended-in": "F",
+              "supplemental-register-amended-in": "F",
+              "trademark-in": "T",
+              "collective-trademark-in": "F",
+              "service-mark-in": "F",
+              "collective-service-mark-in": "F",
+              "collective-membership-mark-in": "F",
+              "certification-mark-in": "F",
+              "cancellation-pending-in": "F",
+              "published-concurrent-in": "F",
+              "concurrent-use-in": "F",
+              "concurrent-use-proceeding-in": "F",
+              "interference-pending-in": "F",
+              "opposition-pending-in": "F",
+              "section-12c-in": "F",
+              "section-2f-in": "F",
+              "section-2f-in-part-in": "F",
+              "renewal-filed-in": "F",
+              "section-8-filed-in": "F",
+              "section-8-partial-accept-in": "F",
+              "section-8-accepted-in": "T",
+              "section-15-acknowledged-in": "T",
+              "section-15-filed-in": "F",
+              "supplemental-register-in": "F",
+              "foreign-priority-in": "F",
+              "change-registration-in": "F",
+              "intent-to-use-in": "F",
+              "intent-to-use-current-in": "F",
+              "filed-as-use-application-in": "T",
+              "amended-to-use-application-in": "F",
+              "use-application-currently-in": "T",
+              "amended-to-itu-application-in": "F",
+              "filing-basis-filed-as-44d-in": "F",
+              "amended-to-44d-application-in": "F",
+              "filing-basis-current-44d-in": "F",
+              "filing-basis-filed-as-44e-in": "F",
+              "filing-basis-current-44e-in": "F",
+              "amended-to-44e-application-in": "F",
+              "without-basis-currently-in": "F",
+              "filing-current-no-basis-in": "F",
+              "color-drawing-filed-in": "F",
+              "color-drawing-current-in": "F",
+              "drawing-3d-filed-in": "F",
+              "drawing-3d-current-in": "F",
+              "standard-characters-claimed-in": "F",
+              "filing-basis-filed-as-66a-in": "F",
+              "filing-basis-current-66a-in": "F",
+              "renewal-date": "20130820",
+              "current-location": "GENERIC WEB UPDATE",
+              "location-date": "20130823"
+            },
+            "case-file-statements": {
+              "case-file-statement": {
+                "type-code": "GS0011",
+                "text": "Microporous Plastic Material Used in the Manufacture of Various Products, Such as Insoles for Shoes, Thermal Insulation Material, Luggage Cases, etc."
+              }
+            },
+            "case-file-event-statements": [
+              {
+                "code": "CHAN",
+                "type": "I",
+                "description-text": "APPLICANT/CORRESPONDENCE CHANGES (NON-RESPONSIVE) ENTERED",
+                "date": "20171010",
+                "number": "19"
+              },
+              {
+                "code": "COAR",
+                "type": "I",
+                "description-text": "TEAS CHANGE OF OWNER ADDRESS RECEIVED",
+                "date": "20171010",
+                "number": "18"
+              },
+              {
+                "code": "ASGN",
+                "type": "I",
+                "description-text": "AUTOMATIC UPDATE OF ASSIGNMENT OF OWNERSHIP",
+                "date": "20170322",
+                "number": "17"
+              },
+              {
+                "code": "NA89",
+                "type": "E",
+                "description-text": "NOTICE OF ACCEPTANCE OF SEC. 8 & 9 - E-MAILED",
+                "date": "20130823",
+                "number": "16"
+              },
+              {
+                "code": "RNL3",
+                "type": "Q",
+                "description-text": "REGISTERED AND RENEWED (THIRD RENEWAL - 10 YRS)",
+                "date": "20130823",
+                "number": "15"
+              },
+              {
+                "code": "89AG",
+                "type": "O",
+                "description-text": "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+                "date": "20130823",
+                "number": "14"
+              },
+              {
+                "code": "89AF",
+                "type": "I",
+                "description-text": "REGISTERED - COMBINED SECTION 8 (10-YR) & SEC. 9 FILED",
+                "date": "20130813",
+                "number": "13"
+              },
+              {
+                "code": "E89R",
+                "type": "I",
+                "description-text": "TEAS SECTION 8 & 9 RECEIVED",
+                "date": "20130813",
+                "number": "12"
+              },
+              {
+                "code": "CORV",
+                "type": "P",
+                "description-text": "REVIEW OF CORRESPONDENCE COMPLETE",
+                "date": "20090209",
+                "number": "11"
+              },
+              {
+                "code": "MAIL",
+                "type": "I",
+                "description-text": "PAPER RECEIVED",
+                "date": "20090202",
+                "number": "10"
+              },
+              {
+                "code": "CFIT",
+                "type": "O",
+                "description-text": "CASE FILE IN TICRS",
+                "date": "20081030",
+                "number": "9"
+              },
+              {
+                "code": "RNL2",
+                "type": "Q",
+                "description-text": "REGISTERED AND RENEWED (SECOND RENEWAL - 10 YRS)",
+                "date": "20031108",
+                "number": "8"
+              },
+              {
+                "code": "89AG",
+                "type": "O",
+                "description-text": "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+                "date": "20031108",
+                "number": "7"
+              },
+              {
+                "code": "89AF",
+                "type": "I",
+                "description-text": "REGISTERED - COMBINED SECTION 8 (10-YR) & SEC. 9 FILED",
+                "date": "20030804",
+                "number": "6"
+              },
+              {
+                "code": "89AF",
+                "type": "I",
+                "description-text": "REGISTERED - COMBINED SECTION 8 (10-YR) & SEC. 9 FILED",
+                "date": "20030804",
+                "number": "5"
+              },
+              {
+                "code": "MAIL",
+                "type": "I",
+                "description-text": "PAPER RECEIVED",
+                "date": "20030804",
+                "number": "4"
+              },
+              {
+                "code": "C15A",
+                "type": "O",
+                "description-text": "REGISTERED - SEC. 8 (6-YR) ACCEPTED & SEC. 15 ACK.",
+                "date": "19841025",
+                "number": "3"
+              },
+              {
+                "code": "REN1",
+                "type": "R",
+                "description-text": "REGISTERED AND RENEWED (FIRST RENEWAL - 20 YRS)",
+                "date": "19830820",
+                "number": "2"
+              },
+              {
+                "code": "REN1",
+                "type": "R",
+                "description-text": "REGISTERED AND RENEWED (FIRST RENEWAL - 20 YRS)",
+                "date": "19831025",
+                "number": "1"
+              }
+            ],
+            "prior-registration-applications": {
+              "other-related-in": "F",
+              "prior-registration-application": {
+                "relationship-type": "0",
+                "number": "0673910"
+              }
+            },
+            "classifications": {
+              "classification": {
+                "international-code-total-no": "1",
+                "us-code-total-no": "1",
+                "international-code": "017",
+                "us-code": "001",
+                "status-code": "6",
+                "status-date": "19991102",
+                "first-use-anywhere-date": "19540930",
+                "first-use-in-commerce-date": "19550615",
+                "primary-code": "001"
+              }
+            },
+            "correspondent": {
+              "address-1": "George A. Pelletier, Jr.",
+              "address-2": "CANTOR COLBURN LLP",
+              "address-3": "22nd Floor",
+              "address-4": "20 Church Street",
+              "address-5": "Hartford CT 06103"
+            },
+            "case-file-owners": [
+              {
+                "entry-number": "1",
+                "party-type": "32",
+                "nationality": {
+                  "state": "MA"
+                },
+                "legal-entity-type-code": "03",
+                "party-name": "ROGERS CORPORATION",
+                "address-1": "2225 W. Chandler Boulevard",
+                "city": "Chandler",
+                "state": "AZ",
+                "postcode": "85224"
+              },
+              {
+                "entry-number": "1",
+                "party-type": "31",
+                "nationality": {
+                  "state": "IL"
+                },
+                "legal-entity-type-code": "03",
+                "party-name": "WORLD PROPERTIES, INC.",
+                "address-1": "7366 NORTH LINCOLN AVENUE, SUITE 410",
+                "city": "LINCOLNWOOD",
+                "state": "IL",
+                "postcode": "60646"
+              },
+              {
+                "entry-number": "1",
+                "party-type": "30",
+                "nationality": {
+                  "state": "MA"
+                },
+                "legal-entity-type-code": "03",
+                "party-name": "Rogers Corporation",
+                "city": "Rogers",
+                "state": "CT"
+              }
+            ],
+            "madrid-international-filing-requests": [
+              {
+                "entry-number": "1",
+                "reference-number": "A0123801",
+                "original-filing-date-uspto": "20220608",
+                "international-status-code": "404",
+                "international-status-date": "20220610",
+                "madrid-history-events": [
+                  {
+                    "code": "NEWAP",
+                    "date": "20220608",
+                    "description-text": "NEW APPLICATION FOR IR RECEIVED",
+                    "entry-number": "1"
+                  },
+                  {
+                    "code": "NCERT",
+                    "date": "20220610",
+                    "description-text": "APPLICATION FOR IR REJECTED BY MPU",
+                    "entry-number": "2"
+                  }
+                ]
+              },
+              {
+                "entry-number": "2",
+                "reference-number": "A0124641",
+                "original-filing-date-uspto": "20220701",
+                "international-status-code": "403",
+                "international-status-date": "20220705",
+                "madrid-history-events": [
+                  {
+                    "code": "NEWAP",
+                    "date": "20220701",
+                    "description-text": "NEW APPLICATION FOR IR RECEIVED",
+                    "entry-number": "1"
+                  },
+                  {
+                    "code": "MCERT",
+                    "date": "20220705",
+                    "description-text": "MANUALLY CERTIFIED",
+                    "entry-number": "2"
+                  },
+                  {
+                    "code": "APPST",
+                    "date": "20220706",
+                    "description-text": "IR CERTIFIED AND SENT TO IB",
+                    "entry-number": "3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "serial-number": "72290332",
+            "registration-number": "0861519",
+            "transaction-date": "20220706",
+            "case-file-header": {
+              "filing-date": "19680205",
+              "registration-date": "19681210",
+              "status-code": "800",
+              "status-date": "20181115",
+              "mark-identification": "PORON",
+              "mark-drawing-code": "1000",
+              "attorney-docket-number": "RT2881139TA1",
+              "attorney-name": "Michelle P. Ciotola",
+              "principal-register-amended-in": "F",
+              "supplemental-register-amended-in": "F",
+              "trademark-in": "T",
+              "collective-trademark-in": "F",
+              "service-mark-in": "F",
+              "collective-service-mark-in": "F",
+              "collective-membership-mark-in": "F",
+              "certification-mark-in": "F",
+              "cancellation-pending-in": "F",
+              "published-concurrent-in": "F",
+              "concurrent-use-in": "F",
+              "concurrent-use-proceeding-in": "F",
+              "interference-pending-in": "F",
+              "opposition-pending-in": "F",
+              "section-12c-in": "F",
+              "section-2f-in": "F",
+              "section-2f-in-part-in": "F",
+              "renewal-filed-in": "F",
+              "section-8-filed-in": "F",
+              "section-8-partial-accept-in": "F",
+              "section-8-accepted-in": "T",
+              "section-15-acknowledged-in": "T",
+              "section-15-filed-in": "F",
+              "supplemental-register-in": "F",
+              "foreign-priority-in": "F",
+              "change-registration-in": "F",
+              "intent-to-use-in": "F",
+              "intent-to-use-current-in": "F",
+              "filed-as-use-application-in": "T",
+              "amended-to-use-application-in": "F",
+              "use-application-currently-in": "T",
+              "amended-to-itu-application-in": "F",
+              "filing-basis-filed-as-44d-in": "F",
+              "amended-to-44d-application-in": "F",
+              "filing-basis-current-44d-in": "F",
+              "filing-basis-filed-as-44e-in": "F",
+              "filing-basis-current-44e-in": "F",
+              "amended-to-44e-application-in": "F",
+              "without-basis-currently-in": "F",
+              "filing-current-no-basis-in": "F",
+              "color-drawing-filed-in": "F",
+              "color-drawing-current-in": "F",
+              "drawing-3d-filed-in": "F",
+              "drawing-3d-current-in": "F",
+              "standard-characters-claimed-in": "F",
+              "filing-basis-filed-as-66a-in": "F",
+              "filing-basis-current-66a-in": "F",
+              "renewal-date": "20181210",
+              "current-location": "GENERIC WEB UPDATE",
+              "location-date": "20181115"
+            },
+            "case-file-statements": {
+              "case-file-statement": {
+                "type-code": "GS0011",
+                "text": "MICROPOROUS PLASTIC MATERIAL USED IN THE MANUFACTURE OF SYNTHETIC SHOES AND PARTS THEREOF"
+              }
+            },
+            "case-file-event-statements": [
+              {
+                "code": "NA89",
+                "type": "E",
+                "description-text": "NOTICE OF ACCEPTANCE OF SEC. 8 & 9 - E-MAILED",
+                "date": "20181115",
+                "number": "18"
+              },
+              {
+                "code": "RNL3",
+                "type": "Q",
+                "description-text": "REGISTERED AND RENEWED (THIRD RENEWAL - 10 YRS)",
+                "date": "20181115",
+                "number": "17"
+              },
+              {
+                "code": "89AG",
+                "type": "O",
+                "description-text": "REGISTERED - SEC. 8 (10-YR) ACCEPTED/SEC. 9 GRANTED",
+                "date": "20181115",
+                "number": "16"
+              },
+              {
+                "code": "APRE",
+                "type": "A",
+                "description-text": "CASE ASSIGNED TO POST REGISTRATION PARALEGAL",
+                "date": "20181115",
+                "number": "15"
+              },
+              {
+                "code": "E89R",
+                "type": "I",
+                "description-text": "TEAS SECTION 8 & 9 RECEIVED",
+                "date": "20181108",
+                "number": "14"
+              },
+              {
+                "code": "REM2",
+                "type": "E",
+                "description-text": "COURTESY REMINDER - SEC. 8 (10-YR)/SEC. 9 E-MAILED",
+                "date": "20171210",
+                "number": "13"
+              },
+              {
+                "code": "CHAN",
+                "type": "I",
+                "description-text": "APPLICANT/CORRESPONDENCE CHANGES (NON-RESPONSIVE) ENTERED",
+                "date": "20171010",
+                "number": "12"
+              },
+              {
+                "code": "9.AF",
+                "type": "I",
+                "description-text": "REGISTERED - SEC. 9 FILED/CHECK RECORD FOR SEC. 8",
+                "date": "19880802",
+                "number": "1"
+              }
+            ],
+            "prior-registration-applications": {
+              "other-related-in": "F",
+              "prior-registration-application": [
+                {
+                  "relationship-type": "0",
+                  "number": "0673910"
+                },
+                {
+                  "relationship-type": "0",
+                  "number": "0754815"
+                }
+              ]
+            },
+            "classifications": {
+              "classification": {
+                "international-code-total-no": "1",
+                "us-code-total-no": "1",
+                "international-code": "017",
+                "us-code": "001",
+                "status-code": "6",
+                "status-date": "19991102",
+                "first-use-anywhere-date": "19540930",
+                "first-use-in-commerce-date": "19550615",
+                "primary-code": "001"
+              }
+            },
+            "correspondent": {
+              "address-1": "Michelle P. Ciotola",
+              "address-2": "Cantor Colburn LLP",
+              "address-3": "22nd Floor",
+              "address-4": "20 Church Street",
+              "address-5": "Hartford CT 06103"
+            },
+            "case-file-owners": [
+              {
+                "entry-number": "1",
+                "party-type": "32",
+                "nationality": {
+                  "state": "MA"
+                },
+                "legal-entity-type-code": "03",
+                "party-name": "ROGERS CORPORATION",
+                "address-1": "2225 W. Chandler Boulevard",
+                "city": "Chandler",
+                "state": "AZ",
+                "postcode": "85224"
+              },
+              {
+                "entry-number": "1",
+                "party-type": "31",
+                "nationality": {
+                  "state": "IL"
+                },
+                "legal-entity-type-code": "03",
+                "party-name": "WORLD PROPERTIES, INC.",
+                "address-1": "7366 NORTH LINCOLN AVENUE",
+                "address-2": "SUITE 410",
+                "city": "LINCOLNWOOD",
+                "state": "IL",
+                "postcode": "60712"
+              },
+              {
+                "entry-number": "1",
+                "party-type": "30",
+                "nationality": {
+                  "state": "MA"
+                },
+                "legal-entity-type-code": "03",
+                "party-name": "ROGERS CORPORATION",
+                "city": "ROGERS",
+                "state": "CT",
+                "postcode": "06263"
+              }
+            ],
+            "madrid-international-filing-requests": [
+              {
+                "entry-number": "1",
+                "reference-number": "A0123801",
+                "original-filing-date-uspto": "20220608",
+                "international-status-code": "404",
+                "international-status-date": "20220610",
+                "madrid-history-events": [
+                  {
+                    "code": "NEWAP",
+                    "date": "20220608",
+                    "description-text": "NEW APPLICATION FOR IR RECEIVED",
+                    "entry-number": "1"
+                  },
+                  {
+                    "code": "NCERT",
+                    "date": "20220610",
+                    "description-text": "APPLICATION FOR IR REJECTED BY MPU",
+                    "entry-number": "2"
+                  }
+                ]
+              },
+              {
+                "entry-number": "2",
+                "reference-number": "A0124641",
+                "original-filing-date-uspto": "20220701",
+                "international-status-code": "403",
+                "international-status-date": "20220705",
+                "madrid-history-events": [
+                  {
+                    "code": "NEWAP",
+                    "date": "20220701",
+                    "description-text": "NEW APPLICATION FOR IR RECEIVED",
+                    "entry-number": "1"
+                  },
+                  {
+                    "code": "MCERT",
+                    "date": "20220705",
+                    "description-text": "MANUALLY CERTIFIED",
+                    "entry-number": "2"
+                  },
+                  {
+                    "code": "APPST",
+                    "date": "20220706",
+                    "description-text": "IR CERTIFIED AND SENT TO IB",
+                    "entry-number": "3"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "serial-number": "97975061",
+            "registration-number": "0000000",
+            "transaction-date": "20220706",
+            "case-file-header": {
+              "filing-date": "20211018",
+              "status-code": "661",
+              "status-date": "20220603",
+              "mark-identification": "NO LADDER",
+              "mark-drawing-code": "4000",
+              "attorney-docket-number": "152585074200",
+              "attorney-name": "Lauri S. Thompson",
+              "principal-register-amended-in": "F",
+              "supplemental-register-amended-in": "F",
+              "trademark-in": "T",
+              "collective-trademark-in": "F",
+              "service-mark-in": "F",
+              "collective-service-mark-in": "F",
+              "collective-membership-mark-in": "F",
+              "certification-mark-in": "F",
+              "cancellation-pending-in": "F",
+              "published-concurrent-in": "F",
+              "concurrent-use-in": "F",
+              "concurrent-use-proceeding-in": "F",
+              "interference-pending-in": "F",
+              "opposition-pending-in": "F",
+              "section-12c-in": "F",
+              "section-2f-in": "T",
+              "section-2f-in-part-in": "F",
+              "renewal-filed-in": "F",
+              "section-8-filed-in": "F",
+              "section-8-partial-accept-in": "F",
+              "section-8-accepted-in": "F",
+              "section-15-acknowledged-in": "F",
+              "section-15-filed-in": "F",
+              "supplemental-register-in": "F",
+              "foreign-priority-in": "F",
+              "change-registration-in": "F",
+              "intent-to-use-in": "T",
+              "intent-to-use-current-in": "T",
+              "filed-as-use-application-in": "F",
+              "amended-to-use-application-in": "F",
+              "use-application-currently-in": "F",
+              "amended-to-itu-application-in": "F",
+              "filing-basis-filed-as-44d-in": "F",
+              "amended-to-44d-application-in": "F",
+              "filing-basis-current-44d-in": "F",
+              "filing-basis-filed-as-44e-in": "F",
+              "filing-basis-current-44e-in": "F",
+              "amended-to-44e-application-in": "F",
+              "without-basis-currently-in": "F",
+              "filing-current-no-basis-in": "F",
+              "color-drawing-filed-in": "F",
+              "color-drawing-current-in": "F",
+              "drawing-3d-filed-in": "F",
+              "drawing-3d-current-in": "F",
+              "standard-characters-claimed-in": "T",
+              "filing-basis-filed-as-66a-in": "F",
+              "filing-basis-current-66a-in": "F",
+              "law-office-assigned-location-code": "N50",
+              "current-location": "TMO LAW OFFICE 123 - EXAMINING ATTORNEY ASSIGNED",
+              "location-date": "20220705",
+              "employee-name": "LAMONT, JOHN CHRISTOPH"
+            },
+            "case-file-statements": {
+              "case-file-statement": {
+                "type-code": "GS0081",
+                "text": "Hand tools, namely, tools for grabbing things out of reach; hand tool pole for installing and removing mounting hardware, specifically, clips"
+              }
+            },
+            "case-file-event-statements": [
+              {
+                "code": "AUPC",
+                "type": "I",
+                "description-text": "AMENDMENT TO USE PROCESSING COMPLETE",
+                "date": "20220705",
+                "number": "16"
+              },
+              {
+                "code": "IUAF",
+                "type": "S",
+                "description-text": "USE AMENDMENT FILED",
+                "date": "20220602",
+                "number": "15"
+              },
+              
+              {
+                "code": "GNRT",
+                "type": "F",
+                "description-text": "NON-FINAL ACTION E-MAILED",
+                "date": "20211203",
+                "number": "5"
+              },
+              {
+                "code": "CNRT",
+                "type": "R",
+                "description-text": "NON-FINAL ACTION  WRITTEN",
+                "date": "20211203",
+                "number": "4"
+              },
+              {
+                "code": "DOCK",
+                "type": "D",
+                "description-text": "ASSIGNED TO EXAMINER",
+                "date": "20211203",
+                "number": "3"
+              },
+              {
+                "code": "NWOS",
+                "type": "I",
+                "description-text": "NEW APPLICATION OFFICE SUPPLIED DATA ENTERED IN TRAM",
+                "date": "20211104",
+                "number": "2"
+              },
+              {
+                "code": "NWAP",
+                "type": "I",
+                "description-text": "NEW APPLICATION ENTERED IN TRAM",
+                "date": "20211021",
+                "number": "1"
+              }
+            ],
+            "prior-registration-applications": {
+              "other-related-in": "F",
+              "prior-registration-application": {
+                "relationship-type": "1",
+                "number": "97079147"
+              }
+            },
+            "classifications": {
+              "classification": {
+                "international-code-total-no": "1",
+                "us-code-total-no": "3",
+                "international-code": "008",
+                "us-code": [
+                  "023",
+                  "028",
+                  "044"
+                ],
+                "status-code": "6",
+                "status-date": "20211104",
+                "first-use-anywhere-date": "20190522",
+                "first-use-in-commerce-date": "20190522",
+                "primary-code": "008"
+              }
+            },
+            "correspondent": {
+              "address-1": "Lauri S. Thompson",
+              "address-2": "GREENBERG TRAURIG, LLP",
+              "address-3": "SUITE 600",
+              "address-4": "10845 GRIFFITH PEAK DRIVE",
+              "address-5": "LAS VEGAS, NV 89135"
+            },
+            "case-file-owners": {
+              "case-file-owner": {
+                "entry-number": "1",
+                "party-type": "10",
+                "nationality": {
+                  "state": "DE"
+                },
+                "legal-entity-type-code": "16",
+                "party-name": "Dyno Seasonal Solutions, LLC",
+                "address-1": "Suite 105",
+                "address-2": "1571 W. Copans Road",
+                "city": "Pompano Beach",
+                "state": "FL",
+                "postcode": "33064"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
