@@ -1810,7 +1810,7 @@ ipd@uspto.gov
                             <address-2>Ridge Road, Letchworth Garden City</address-2>
                             <city>Hertfordshire</city>
                             <country>GB</country>
-                            <postcode>SG61PT</postcode>
+                            <postcode>12345</postcode>
                         </case-file-owner>
                         <case-file-owner>
                             <entry-number>1</entry-number>
@@ -1825,7 +1825,7 @@ ipd@uspto.gov
                             <address-2>Ridge Road, Letchworth Garden City</address-2>
                             <city>Hertfordshire</city>
                             <country>GB</country>
-                            <postcode>SG61PT</postcode>
+                            <postcode>12345</postcode>
                         </case-file-owner>
                     </case-file-owners>
                 </case-file>
