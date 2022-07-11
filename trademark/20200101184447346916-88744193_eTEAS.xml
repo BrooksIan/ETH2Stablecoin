@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<uspto-tm-document description="Base Application Form" document-subtype="rf" document-type="app" expiry-date="02/28/2021" form-number="1478" omb-form-note-text="Under the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless it displays a valid OMB control number.  " omb-form-number="0651-0009" revision-date="09/2006" system-creator="eteas" version="6.10" version-date="2019-05-04">
+  <trademark-case-files>
+    <trademark-case-file>
+      <case-file-header>
+        <serial-number>88744193</serial-number>
+        <mark action-code="create" version="new">
+          <design-mark color="y" standard-character-format="n">
+            <file-name acceptable="y" height="370" image-type="jpeg" width="640">MRK767978180-175750164_._Boon_Logo__RED_.jpg</file-name>
+          </design-mark>
+        </mark>
+        <filing-date>20200101</filing-date>
+      </case-file-header>
+      <base-application-form>
+        <goods-services>
+          <goods-service action-code="create" version="new">
+            <sequence-number>1</sequence-number>
+            <class-code>030</class-code>
+            <description-text>Chili oil for use as a seasoning or condiment; Chili oils being condiments</description-text>
+            <filing-basis-current-1a-in>Y</filing-basis-current-1a-in>
+            <first-use-anywhere-date>20171226</first-use-anywhere-date>
+            <first-use-in-commerce-date>20171226</first-use-in-commerce-date>
+            <specimen action-code="create" version="new">
+              <class-code>030</class-code>
+              <file-name acceptable="n" height="1664" image-type="jpeg" width="2500">SPE0-767978180-20200101175750164225_._Boon_Sauce_8oz_.jpg</file-name>
+              <description-text>8oz glass jar of Boon chili oil with white lid</description-text>
+            </specimen>
+            <filing-bases>
+              <filing-basis>
+                <type>1a</type>
+                <filing-basis-description>Chili oil for use as a seasoning or condiment; Chili oils being condiments</filing-basis-description>
+                <filing-basis-entry>
+                  <entry-number>1</entry-number>
+                  <id-manual-entry class-code="030">
+                    <fixed-text>Chili oil for use as a seasoning or condiment</fixed-text>
+                  </id-manual-entry>
+                  <filing-basis-1a>
+                    <first-use-anywhere-date>20171226</first-use-anywhere-date>
+                    <first-use-in-commerce-date>20171226</first-use-in-commerce-date>
+                    <specimen action-code="create" version="new">
+                      <class-code>030</class-code>
+                      <file-name acceptable="n" height="1664" image-type="jpeg" width="2500">SPE0-767978180-20200101175750164225_._Boon_Sauce_8oz_.jpg</file-name>
+                      <description-text>8oz glass jar of Boon chili oil with white lid</description-text>
+                    </specimen>
+                  </filing-basis-1a>
+                </filing-basis-entry>
+                <filing-basis-entry>
+                  <entry-number>2</entry-number>
+                  <id-manual-entry class-code="030">
+                    <fixed-text>Chili oils being condiments</fixed-text>
+                  </id-manual-entry>
+                  <filing-basis-1a>
+                    <first-use-anywhere-date>20171226</first-use-anywhere-date>
+                    <first-use-in-commerce-date>20171226</first-use-in-commerce-date>
+                    <specimen action-code="create" version="new">
+                      <class-code>030</class-code>
+                      <file-name acceptable="n" height="1664" image-type="jpeg" width="2500">SPE0-767978180-20200101175750164225_._Boon_Sauce_8oz_.jpg</file-name>
+                      <description-text>8oz glass jar of Boon chili oil with white lid</description-text>
+                    </specimen>
+                  </filing-basis-1a>
+                </filing-basis-entry>
+              </filing-basis>
+            </filing-bases>
+          </goods-service>
+          <display-goods-service action-code="create" version="new">
+            <class-code>030</class-code>
+            <description-text>Chili oil for use as a seasoning or condiment; Chili oils being condiments</description-text>
+            <filing-bases>
+              <filing-basis>
+                <type />
+                <filing-basis-entry>
+                  <entry-number>0</entry-number>
+                  <id-manual-entry class-code="030" />
+                  <filing-basis-1a>
+                    <first-use-anywhere-date>20171226</first-use-anywhere-date>
+                    <first-use-in-commerce-date>20171226</first-use-in-commerce-date>
+                    <specimen action-code="create" version="new">
+                      <class-code>030</class-code>
+                      <file-name acceptable="n" height="1664" image-type="jpeg" width="2500">SPE0-767978180-20200101175750164225_._Boon_Sauce_8oz_.jpg</file-name>
+                      <description-text>8oz glass jar of Boon chili oil with white lid</description-text>
+                    </specimen>
+                  </filing-basis-1a>
+                </filing-basis-entry>
+              </filing-basis>
+            </filing-bases>
+          </display-goods-service>
+        </goods-services>
+        <case-file-statements>
+          <case-file-statement action-code="create" version="new">
+            <type-code>CC</type-code>
+            <text>The color(s) red, black and white is/are claimed as a feature of the mark.</text>
+          </case-file-statement>
+          <case-file-statement action-code="create" version="new">
+            <type-code>DM</type-code>
+            <text>The mark consists of the word "BooN" is stylized font, with the letters found in red, white or black.</text>
+          </case-file-statement>
+        </case-file-statements>
+        <case-file-owners>
+          <case-file-owner action-code="create" version="new">
+            <legal-entity-type-code>16</legal-entity-type-code>
+            <name>The Boon Group LLC</name>
+            <dba-aka-text />
+            <street>1104 Ranchwood Place</street>
+            <internal-address />
+            <city>Diamond Bar</city>
+            <state>California (CA)</state>
+            <postal-code>91765</postal-code>
+            <country-name>United States (USX)</country-name>
+            <phone>909-753-3036</phone>
+            <fax />
+            <state-organized>California (CA)</state-organized>
+            <general-partner-name />
+            <website-address>www.boonsauce.com</website-address>
+          </case-file-owner>
+        </case-file-owners>
+      </base-application-form>
+      <correspondence-form>
+        <source-form>app</source-form>
+        <correspondences>
+          <correspondence action-code="create" version="new">
+            <type-code>c</type-code>
+            <new-address>
+              <name>The Boon Group LLC</name>
+              <firm-name>The Boon Group LLC</firm-name>
+              <street>1104 Ranchwood Place</street>
+              <internal-address />
+              <city>Diamond Bar</city>
+              <state>California (CA)</state>
+              <postal-code>91765</postal-code>
+              <country-name>United States (USX)</country-name>
+              <phone>909-753-3036</phone>
+              <fax />
+              <email authorized="y">officialboonsauce@gmail.com;wendi.ogata@gmail.com</email>
+              <attorney-docket-number />
+            </new-address>
+          </correspondence>
+        </correspondences>
+      </correspondence-form>
+    </trademark-case-file>
+    <signatures>
+      <signature action-code="create" version="new">
+        <esignature-type>DIRECT</esignature-type>
+        <signature-type>D</signature-type>
+        <signature-entry-number>1</signature-entry-number>
+        <signature-name>/Wendi Ogata/</signature-name>
+        <signatory-date>20200101</signatory-date>
+        <signatory-name>Wendi Ogata</signatory-name>
+        <signatory-position>Owner</signatory-position>
+        <phone>909-753-3036</phone>
+      </signature>
+    </signatures>
+    <fee-types>
+      <fee-type action-code="create" version="new">
+        <fee-code>7009</fee-code>
+        <number-of-classes>1</number-of-classes>
+        <number-of-classes-paid>1</number-of-classes-paid>
+        <subtotal-amount>275</subtotal-amount>
+      </fee-type>
+      <total-amount>275</total-amount>
+    </fee-types>
+    <payment action-code="create" version="new">
+      <ram-sale-number>88744193</ram-sale-number>
+      <ram-accounting-date>20200102</ram-accounting-date>
+      <payment-method>CC</payment-method>
+    </payment>
+  </trademark-case-files>
+  <boilerplates>
+    <boilerplate>
+      <boilerplate-type>SIGNATURE.APPLICATION</boilerplate-type>
+      <boilerplate-description>TEAS APP Declaration</boilerplate-description>
+      <boilerplate-text>&lt;b&gt;Basis:&lt;/b&gt;&lt;br/&gt; &lt;b&gt;If the applicant is filing the application based on use in commerce under 15 U.S.C. � 1051(a):&lt;/b&gt; &lt;ul&gt; &lt;li&gt;The signatory believes that the applicant is the owner of the trademark/service mark sought to be registered;&lt;/li&gt; &lt;li&gt;The mark is in use in commerce on or in connection with the goods/services in the application; &lt;/li&gt; &lt;li&gt;The specimen(s) shows the mark as used on or in connection with the goods/services in the application; and&lt;/li&gt; &lt;li&gt;To the best of the signatory's knowledge and belief, the facts recited in the application are accurate.&lt;/li&gt; &lt;/ul&gt; &lt;b&gt;And/Or&lt;/b&gt;&lt;br/&gt; &lt;b&gt;If the applicant is filing the application based on an intent to use the mark in commerce under 15 U.S.C. � 1051(b), � 1126(d), and/or � 1126(e):&lt;/b&gt; &lt;ul&gt; &lt;li&gt;The signatory believes that the applicant is entitled to use the mark in commerce; &lt;/li&gt; &lt;li&gt;The applicant has a bona fide intention to use the mark in commerce on or in connection with the goods/services in the application; and&lt;/li&gt; &lt;li&gt;To the best of the signatory's knowledge and belief, the facts recited in the application are accurate.&lt;/li&gt; &lt;/ul&gt;</boilerplate-text>
+      <boilerplate-text>To the best of the signatory's knowledge and belief, no other persons, except, if applicable, concurrent users, have the right to use the mark in commerce, either in the identical form or in such near resemblance as to be likely, when used on or in connection with the goods/services of such other persons, to cause confusion or mistake, or to deceive.</boilerplate-text>
+      <boilerplate-text>To the best of the signatory's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, the allegations and other factual contentions made above have evidentiary support.</boilerplate-text>
+      <boilerplate-text>The signatory being warned that willful false statements and the like are punishable by fine or imprisonment, or both, under 18 U.S.C. � 1001, and that such willful false statements and the like may jeopardize the validity of the application or submission or any registration resulting therefrom, declares that all statements made of his/her own knowledge are true and all statements made on information and belief are believed to be true.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>EMAIL.1</boilerplate-type>
+      <boilerplate-description>Email Authorization Statement</boilerplate-description>
+      <boilerplate-text>Applicant authorizes the USPTO to communicate with the applicant or its representative via e-mail.</boilerplate-text>
+      <boilerplate-text>NOTE: While the application may list an email address for the applicant, applicant's attorney, and/or applicant's domestic representative, only one e-mail address may be used for correspondence, in accordance with Office policy. The applicant must keep this address current in the Office's records.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>GOODSSERVICES.APP.1A</boilerplate-type>
+      <boilerplate-description>Section 1a Statement</boilerplate-description>
+      <boilerplate-text>Use in Commerce: The applicant is using the mark in commerce on or in connection with the identified goods/services. The applicant attaches, or will later submit, one specimen as a JPG/PDF image file showing the mark as used in commerce on or in connection with any item in the class of listed goods/services, regardless of whether the mark itself is in the standard character format or is a stylized or design mark. The specimen image file may be in color, and the image must be in color if color is being claimed as a feature of the mark.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>E-MAIL AUTHORIZED</boilerplate-type>
+      <boilerplate-description>TEAS RF email authorization</boilerplate-description>
+      <boilerplate-text>I authorize the USPTO to send email correspondence concerning the application to the applicant, the applicant's attorney, or the applicant's domestic representative at the email address provided in this application. I understand that a valid email address must be maintained and that the applicant or the applicant's attorney must file the relevant subsequent application-related submissions via the Trademark Electronic Application System (TEAS). Failure to do so will result in the loss of TEAS Reduced Fee status and a requirement to submit an additional processing fee of $125 per international class of goods/services.</boilerplate-text>
+    </boilerplate>
+  </boilerplates>
+  <filing>
+    <filing-identifier>20200101175750164225-88744193</filing-identifier>
+    <xml-create-date>20200101 18:40:20</xml-create-date>
+    <submit-date>Wed Jan 01 18:44:47 EST 2020</submit-date>
+    <teas-stamp>USPTO/BAS-000.000.000.000-20200101184447346916-88744193-700d355b4a625ffc9e421a2fce2c16e33df84a899fce29d641775c30921cdec-CC-44466744-20200101175750164225</teas-stamp>
+    <filing-description>Trademark/Service Mark Application, Principal Register</filing-description>
+    <reply-email>officialboonsauce@gmail.com</reply-email>
+  </filing>
+</uspto-tm-document>

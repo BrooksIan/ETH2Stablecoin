@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<uspto-tm-document description="Base Application Form" document-subtype="rf" document-type="app" expiry-date="02/28/2021" form-number="1478" omb-form-note-text="Under the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless it displays a valid OMB control number.  " omb-form-number="0651-0009" revision-date="09/2006" system-creator="eteas" version="6.10" version-date="2019-05-04">
+  <trademark-case-files>
+    <trademark-case-file>
+      <case-file-header>
+        <serial-number>88744172</serial-number>
+        <mark action-code="create" version="new">
+          <typed-mark standard-character-format="y">
+            <mark-text>HIPPITY HOPPITY</mark-text>
+            <file-name acceptable="y" height="250" image-type="jpeg" width="602">mark.jpg</file-name>
+            <mark-entered>HIPPITY HOPPITY</mark-entered>
+          </typed-mark>
+        </mark>
+        <filing-date>20200101</filing-date>
+      </case-file-header>
+      <base-application-form>
+        <goods-services>
+          <goods-service action-code="create" version="new">
+            <sequence-number>1</sequence-number>
+            <class-code>028</class-code>
+            <description-text>Toy vehicles, namely, Bouncing toys where a child can sit on the toy object and bounce; Pedal Cars; Foot-to-Floor Ride On Vehicles; Battery and non-battery operated Ride-On vehicles; Die-cast toy vehicles; Die-cast playsets, namely, playsets consisting of toy vehicles, toy vehicle replicas, toy garages and the components inside the garages, toy vehicle replicas service centers, collectible die-cast vehicles, and collectible die-cast gas pump replicas; Collectible die-cast toy vehicles and playsets featuring vehicles.</description-text>
+            <filing-basis-current-1b-in>Y</filing-basis-current-1b-in>
+          </goods-service>
+        </goods-services>
+        <case-file-owners>
+          <case-file-owner action-code="create" version="new">
+            <legal-entity-type-code>16</legal-entity-type-code>
+            <name>Beyond Infinity Limited</name>
+            <dba-aka-text />
+            <street>14 Science Museum Road, TST East</street>
+            <internal-address>Rm 607, 6/F, Block A, New Mandarin Plaza</internal-address>
+            <city>Kowloon</city>
+            <state />
+            <postal-code />
+            <country-name>Hong Kong (HKX)</country-name>
+            <email authorized="n" />
+            <phone />
+            <fax />
+            <state-organized>Hong Kong (HKX)</state-organized>
+            <general-partner-name />
+            <website-address />
+          </case-file-owner>
+        </case-file-owners>
+      </base-application-form>
+      <correspondence-form>
+        <source-form>app</source-form>
+        <correspondences>
+          <correspondence action-code="create" version="new">
+            <type-code>a</type-code>
+            <new-address>
+              <name>Raymond Sun</name>
+              <firm-name>Law Office of Raymond Sun</firm-name>
+              <street>20 Corporate Park, Suite 155</street>
+              <internal-address />
+              <city>Irvine</city>
+              <state>California (CA)</state>
+              <postal-code>92606</postal-code>
+              <country-name>United States (USX)</country-name>
+              <phone>949-252-9180</phone>
+              <fax />
+              <email authorized="y">rsunlaw@aol.com</email>
+              <attorney-docket-number />
+              <other-appointed-attorney />
+              <attorney-credential>
+                <bar-membership-number>138363</bar-membership-number>
+                <state>California (CA)</state>
+                <admission-year-number>1988</admission-year-number>
+              </attorney-credential>
+            </new-address>
+          </correspondence>
+          <correspondence action-code="create" version="new">
+            <type-code>c</type-code>
+            <new-address>
+              <name>Raymond Sun</name>
+              <firm-name>Law Office of Raymond Sun</firm-name>
+              <street>20 Corporate Park, Suite 155</street>
+              <internal-address />
+              <city>Irvine</city>
+              <state>California (CA)</state>
+              <postal-code>92606</postal-code>
+              <country-name>United States (USX)</country-name>
+              <phone>949-252-9180</phone>
+              <fax />
+              <email authorized="y">rsunlaw@aol.com</email>
+            </new-address>
+          </correspondence>
+        </correspondences>
+      </correspondence-form>
+    </trademark-case-file>
+    <signatures>
+      <signature action-code="create" version="new">
+        <esignature-type>DIRECT</esignature-type>
+        <signature-type>D</signature-type>
+        <signature-entry-number>1</signature-entry-number>
+        <signature-name>/Raymond Sun/</signature-name>
+        <signatory-date>20200101</signatory-date>
+        <signatory-name>Raymond Sun</signatory-name>
+        <signatory-position>Attorney of Record</signatory-position>
+        <phone>949-252-9180</phone>
+      </signature>
+    </signatures>
+    <fee-types>
+      <fee-type action-code="create" version="new">
+        <fee-code>7009</fee-code>
+        <number-of-classes>1</number-of-classes>
+        <number-of-classes-paid>1</number-of-classes-paid>
+        <subtotal-amount>275</subtotal-amount>
+      </fee-type>
+      <total-amount>275</total-amount>
+    </fee-types>
+    <payment action-code="create" version="new">
+      <ram-sale-number>88744172</ram-sale-number>
+      <ram-accounting-date>20200102</ram-accounting-date>
+      <payment-method>CC</payment-method>
+    </payment>
+  </trademark-case-files>
+  <boilerplates>
+    <boilerplate>
+      <boilerplate-type>SIGNATURE.APPLICATION</boilerplate-type>
+      <boilerplate-description>TEAS APP Declaration</boilerplate-description>
+      <boilerplate-text>&lt;b&gt;Basis:&lt;/b&gt;&lt;br/&gt; &lt;b&gt;If the applicant is filing the application based on use in commerce under 15 U.S.C. � 1051(a):&lt;/b&gt; &lt;ul&gt; &lt;li&gt;The signatory believes that the applicant is the owner of the trademark/service mark sought to be registered;&lt;/li&gt; &lt;li&gt;The mark is in use in commerce on or in connection with the goods/services in the application; &lt;/li&gt; &lt;li&gt;The specimen(s) shows the mark as used on or in connection with the goods/services in the application; and&lt;/li&gt; &lt;li&gt;To the best of the signatory's knowledge and belief, the facts recited in the application are accurate.&lt;/li&gt; &lt;/ul&gt; &lt;b&gt;And/Or&lt;/b&gt;&lt;br/&gt; &lt;b&gt;If the applicant is filing the application based on an intent to use the mark in commerce under 15 U.S.C. � 1051(b), � 1126(d), and/or � 1126(e):&lt;/b&gt; &lt;ul&gt; &lt;li&gt;The signatory believes that the applicant is entitled to use the mark in commerce; &lt;/li&gt; &lt;li&gt;The applicant has a bona fide intention to use the mark in commerce on or in connection with the goods/services in the application; and&lt;/li&gt; &lt;li&gt;To the best of the signatory's knowledge and belief, the facts recited in the application are accurate.&lt;/li&gt; &lt;/ul&gt;</boilerplate-text>
+      <boilerplate-text>To the best of the signatory's knowledge and belief, no other persons, except, if applicable, concurrent users, have the right to use the mark in commerce, either in the identical form or in such near resemblance as to be likely, when used on or in connection with the goods/services of such other persons, to cause confusion or mistake, or to deceive.</boilerplate-text>
+      <boilerplate-text>To the best of the signatory's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, the allegations and other factual contentions made above have evidentiary support.</boilerplate-text>
+      <boilerplate-text>The signatory being warned that willful false statements and the like are punishable by fine or imprisonment, or both, under 18 U.S.C. � 1001, and that such willful false statements and the like may jeopardize the validity of the application or submission or any registration resulting therefrom, declares that all statements made of his/her own knowledge are true and all statements made on information and belief are believed to be true.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>MARK</boilerplate-type>
+      <boilerplate-description>Statement for Mark</boilerplate-description>
+      <boilerplate-text>The mark is presented in standard character format without claim to any particular font style, size or color.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>GOODSSERVICES.APP.1B</boilerplate-type>
+      <boilerplate-description>Section 1b Statement</boilerplate-description>
+      <boilerplate-text>Intent to Use: The applicant has a bona fide intention, and is entitled, to use the mark in commerce on or in connection with the identified goods/services.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>E-MAIL AUTHORIZED</boilerplate-type>
+      <boilerplate-description>TEAS RF email authorization</boilerplate-description>
+      <boilerplate-text>I authorize the USPTO to send email correspondence concerning the application to the applicant, the applicant's attorney, or the applicant's domestic representative at the email address provided in this application. I understand that a valid email address must be maintained and that the applicant or the applicant's attorney must file the relevant subsequent application-related submissions via the Trademark Electronic Application System (TEAS). Failure to do so will result in the loss of TEAS Reduced Fee status and a requirement to submit an additional processing fee of $125 per international class of goods/services.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>ATTORNEY.AUTHORIZED</boilerplate-type>
+      <boilerplate-description>Attorney Authorization</boilerplate-description>
+      <boilerplate-text>The attorney of record is an active member in good standing of the bar of the highest court of a U.S. state, the District of Columbia, or any U.S. Commonwealth or territory.</boilerplate-text>
+    </boilerplate>
+  </boilerplates>
+  <filing>
+    <filing-identifier>20200101173513621391-88744172</filing-identifier>
+    <xml-create-date>20200101 17:42:20</xml-create-date>
+    <submit-date>Wed Jan 01 17:43:21 EST 2020</submit-date>
+    <teas-stamp>USPTO/BAS-2001:000:0000:00:0000:0000:0000:0000-20200101174321571351-88744172-700ddca04bd345c19f6c4ff4ec45149de6b45468de467ed508682cdaf2ea6f98-CC-43206693-20200101173513621391</teas-stamp>
+    <filing-description>Trademark/Service Mark Application, Principal Register</filing-description>
+    <reply-email>rsunlaw@aol.com</reply-email>
+  </filing>
+</uspto-tm-document>

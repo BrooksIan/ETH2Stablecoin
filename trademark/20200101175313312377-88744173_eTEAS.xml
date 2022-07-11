@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<uspto-tm-document description="Base Application Form" document-subtype="rf" document-type="app" expiry-date="02/28/2021" form-number="1478" omb-form-note-text="Under the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless it displays a valid OMB control number.  " omb-form-number="0651-0009" revision-date="09/2006" system-creator="eteas" version="6.10" version-date="2019-05-04">
+  <trademark-case-files>
+    <trademark-case-file>
+      <case-file-header>
+        <serial-number>88744173</serial-number>
+        <mark action-code="create" version="new">
+          <design-mark color="n" standard-character-format="n">
+            <file-name acceptable="y" height="500" image-type="jpeg" width="934">MRK7321323356-174007382_._FamilyAppLogoFinal-ForFiling.jpg</file-name>
+            <mark-text>FamilyApp</mark-text>
+          </design-mark>
+        </mark>
+        <filing-date>20200101</filing-date>
+      </case-file-header>
+      <base-application-form>
+        <goods-services>
+          <goods-service action-code="create" version="new">
+            <sequence-number>1</sequence-number>
+            <class-code>009</class-code>
+            <description-text>Downloadable mobile and software applications for posting, storing, organizing and sharing transactions, events, stories, updates, conversations, photos, videos and other group-related information within selected groups, and among members of the selected groups, namely within family units, between authorized family units, and with connected service providers through controllable membership channels and exchanges employing conversational web tools for individual and group connections, intra-group and inter-group information exchange, and facilitating individual and group connection in a secure data exchange environment.</description-text>
+            <filing-basis-current-1b-in>Y</filing-basis-current-1b-in>
+          </goods-service>
+        </goods-services>
+        <case-file-statements>
+          <case-file-statement action-code="create" version="new">
+            <type-code>DM</type-code>
+            <text>The mark consists of a stylized house with a smile and the word FamilyApp.</text>
+          </case-file-statement>
+        </case-file-statements>
+        <case-file-owners>
+          <case-file-owner action-code="create" version="new">
+            <legal-entity-type-code>03</legal-entity-type-code>
+            <name>Family Fabric Inc.</name>
+            <dba-aka-text />
+            <street>1700 Baltic Avenue</street>
+            <internal-address />
+            <city>Virginia Beach</city>
+            <state>Virginia (VA)</state>
+            <postal-code>23451</postal-code>
+            <country-name>United States (USX)</country-name>
+            <email authorized="n" />
+            <phone>703-232-1160 x101</phone>
+            <fax />
+            <incorporated-in-state-code>Delaware (DE)</incorporated-in-state-code>
+            <website-address />
+          </case-file-owner>
+        </case-file-owners>
+      </base-application-form>
+      <correspondence-form>
+        <source-form>app</source-form>
+        <correspondences>
+          <correspondence action-code="create" version="new">
+            <type-code>a</type-code>
+            <new-address>
+              <name>Daniel A. Tanner, III</name>
+              <firm-name>TannerIP PLLC</firm-name>
+              <street>13057 Champlain Drive</street>
+              <internal-address />
+              <city>Manassas</city>
+              <state>Virginia (VA)</state>
+              <postal-code>20112</postal-code>
+              <country-name>United States (USX)</country-name>
+              <phone>703-232-1160 x101</phone>
+              <fax>571-393-3610</fax>
+              <email authorized="y">dan@tannerip.com</email>
+              <attorney-docket-number>160-004-TM</attorney-docket-number>
+              <other-appointed-attorney />
+              <attorney-credential>
+                <bar-membership-number>66006</bar-membership-number>
+                <state>Virginia (VA)</state>
+                <admission-year-number>2003</admission-year-number>
+              </attorney-credential>
+            </new-address>
+          </correspondence>
+          <correspondence action-code="create" version="new">
+            <type-code>c</type-code>
+            <new-address>
+              <name>Daniel A. Tanner, III</name>
+              <firm-name>TannerIP PLLC</firm-name>
+              <street>13057 Champlain Drive</street>
+              <internal-address />
+              <city>Manassas</city>
+              <state>Virginia (VA)</state>
+              <postal-code>20112</postal-code>
+              <country-name>United States (USX)</country-name>
+              <phone>703-232-1160 x101</phone>
+              <fax>571-393-3610</fax>
+              <email authorized="y">dan@tannerip.com</email>
+            </new-address>
+          </correspondence>
+        </correspondences>
+      </correspondence-form>
+    </trademark-case-file>
+    <signatures>
+      <signature action-code="create" version="new">
+        <esignature-type>DIRECT</esignature-type>
+        <signature-type>D</signature-type>
+        <signature-entry-number>1</signature-entry-number>
+        <signature-name>/Daniel A. Tanner, III/</signature-name>
+        <signatory-date>20200101</signatory-date>
+        <signatory-name>Daniel A. Tanner, III</signatory-name>
+        <signatory-position>Attorney of Record, Virginia bar member</signatory-position>
+        <phone>703-232-1160 x101</phone>
+      </signature>
+    </signatures>
+    <fee-types>
+      <fee-type action-code="create" version="new">
+        <fee-code>7009</fee-code>
+        <number-of-classes>1</number-of-classes>
+        <number-of-classes-paid>1</number-of-classes-paid>
+        <subtotal-amount>275</subtotal-amount>
+      </fee-type>
+      <total-amount>275</total-amount>
+    </fee-types>
+    <payment action-code="create" version="new">
+      <ram-sale-number>88744173</ram-sale-number>
+      <ram-accounting-date>20200102</ram-accounting-date>
+      <payment-method>CC</payment-method>
+    </payment>
+  </trademark-case-files>
+  <boilerplates>
+    <boilerplate>
+      <boilerplate-type>SIGNATURE.APPLICATION</boilerplate-type>
+      <boilerplate-description>TEAS APP Declaration</boilerplate-description>
+      <boilerplate-text>&lt;b&gt;Basis:&lt;/b&gt;&lt;br/&gt; &lt;b&gt;If the applicant is filing the application based on use in commerce under 15 U.S.C. § 1051(a):&lt;/b&gt; &lt;ul&gt; &lt;li&gt;The signatory believes that the applicant is the owner of the trademark/service mark sought to be registered;&lt;/li&gt; &lt;li&gt;The mark is in use in commerce on or in connection with the goods/services in the application; &lt;/li&gt; &lt;li&gt;The specimen(s) shows the mark as used on or in connection with the goods/services in the application; and&lt;/li&gt; &lt;li&gt;To the best of the signatory's knowledge and belief, the facts recited in the application are accurate.&lt;/li&gt; &lt;/ul&gt; &lt;b&gt;And/Or&lt;/b&gt;&lt;br/&gt; &lt;b&gt;If the applicant is filing the application based on an intent to use the mark in commerce under 15 U.S.C. § 1051(b), § 1126(d), and/or § 1126(e):&lt;/b&gt; &lt;ul&gt; &lt;li&gt;The signatory believes that the applicant is entitled to use the mark in commerce; &lt;/li&gt; &lt;li&gt;The applicant has a bona fide intention to use the mark in commerce on or in connection with the goods/services in the application; and&lt;/li&gt; &lt;li&gt;To the best of the signatory's knowledge and belief, the facts recited in the application are accurate.&lt;/li&gt; &lt;/ul&gt;</boilerplate-text>
+      <boilerplate-text>To the best of the signatory's knowledge and belief, no other persons, except, if applicable, concurrent users, have the right to use the mark in commerce, either in the identical form or in such near resemblance as to be likely, when used on or in connection with the goods/services of such other persons, to cause confusion or mistake, or to deceive.</boilerplate-text>
+      <boilerplate-text>To the best of the signatory's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, the allegations and other factual contentions made above have evidentiary support.</boilerplate-text>
+      <boilerplate-text>The signatory being warned that willful false statements and the like are punishable by fine or imprisonment, or both, under 18 U.S.C. § 1001, and that such willful false statements and the like may jeopardize the validity of the application or submission or any registration resulting therefrom, declares that all statements made of his/her own knowledge are true and all statements made on information and belief are believed to be true.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>MARK.CLAIMING_NOCOLOR</boilerplate-type>
+      <boilerplate-description>Statement for Mark CLAIMING NO COLOR</boilerplate-description>
+      <boilerplate-text>The applicant is not claiming color as a feature of the mark.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>GOODSSERVICES.APP.1B</boilerplate-type>
+      <boilerplate-description>Section 1b Statement</boilerplate-description>
+      <boilerplate-text>Intent to Use: The applicant has a bona fide intention, and is entitled, to use the mark in commerce on or in connection with the identified goods/services.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>E-MAIL AUTHORIZED</boilerplate-type>
+      <boilerplate-description>TEAS RF email authorization</boilerplate-description>
+      <boilerplate-text>I authorize the USPTO to send email correspondence concerning the application to the applicant, the applicant's attorney, or the applicant's domestic representative at the email address provided in this application. I understand that a valid email address must be maintained and that the applicant or the applicant's attorney must file the relevant subsequent application-related submissions via the Trademark Electronic Application System (TEAS). Failure to do so will result in the loss of TEAS Reduced Fee status and a requirement to submit an additional processing fee of $125 per international class of goods/services.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>ATTORNEY.AUTHORIZED</boilerplate-type>
+      <boilerplate-description>Attorney Authorization</boilerplate-description>
+      <boilerplate-text>The attorney of record is an active member in good standing of the bar of the highest court of a U.S. state, the District of Columbia, or any U.S. Commonwealth or territory.</boilerplate-text>
+    </boilerplate>
+  </boilerplates>
+  <filing>
+    <filing-identifier>20200101174007382983-88744173</filing-identifier>
+    <xml-create-date>20200101 17:49:45</xml-create-date>
+    <submit-date>Wed Jan 01 17:53:13 EST 2020</submit-date>
+    <teas-stamp>USPTO/BAS-73.213.233.56-20200101175313312377-88744173-70095b287a45fb039add863e61c781a4c9b8d7b7f531fb6a6ab12cf7e527dd59-CC-53116698-20200101174007382983</teas-stamp>
+    <filing-description>Trademark/Service Mark Application, Principal Register</filing-description>
+    <reply-email>dan@tannerip.com</reply-email>
+  </filing>
+</uspto-tm-document>

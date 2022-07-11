@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<uspto-tm-document description="Base Application Form" document-subtype="rf" document-type="app" expiry-date="02/28/2021" form-number="1478" omb-form-note-text="Under the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless it displays a valid OMB control number.  " omb-form-number="0651-0009" revision-date="09/2006" system-creator="eteas" version="6.10" version-date="2019-05-04">
+  <trademark-case-files>
+    <trademark-case-file>
+      <case-file-header>
+        <serial-number>88744223</serial-number>
+        <mark action-code="create" version="new">
+          <typed-mark standard-character-format="y">
+            <mark-text>POLITICS DON'T CORRUPT PEOPLE... ...PEOPLE CORRUPT POLITICS!!</mark-text>
+            <file-name acceptable="y" height="250" image-type="jpeg" width="600">mark.jpg</file-name>
+            <mark-entered>POLITICS DON'T CORRUPT PEOPLE... ...PEOPLE CORRUPT POLITICS!!</mark-entered>
+          </typed-mark>
+        </mark>
+        <filing-date>20200101</filing-date>
+      </case-file-header>
+      <base-application-form>
+        <goods-services>
+          <goods-service action-code="create" version="new">
+            <sequence-number>1</sequence-number>
+            <class-code>016</class-code>
+            <description-text>Paper goods; printed matter; wrapping paper; book covers; and bookmarks</description-text>
+            <filing-basis-current-1b-in>Y</filing-basis-current-1b-in>
+          </goods-service>
+          <goods-service action-code="create" version="new">
+            <sequence-number>2</sequence-number>
+            <class-code>025</class-code>
+            <description-text>clothing</description-text>
+            <filing-basis-current-1b-in>Y</filing-basis-current-1b-in>
+          </goods-service>
+          <goods-service action-code="create" version="new">
+            <sequence-number>3</sequence-number>
+            <class-code>035</class-code>
+            <description-text>Online retail services</description-text>
+            <filing-basis-current-1b-in>Y</filing-basis-current-1b-in>
+          </goods-service>
+        </goods-services>
+        <case-file-owners>
+          <case-file-owner action-code="create" version="new">
+            <legal-entity-type-code>01</legal-entity-type-code>
+            <name>Gary Lichter</name>
+            <dba-aka-text />
+            <street>P.O. Box 380</street>
+            <internal-address />
+            <city>Midway</city>
+            <state>Utah (UT)</state>
+            <postal-code>84049</postal-code>
+            <country-name>United States (USX)</country-name>
+            <email authorized="n" />
+            <phone />
+            <fax />
+            <citizenship-country-name>United States (USX)</citizenship-country-name>
+            <website-address />
+          </case-file-owner>
+        </case-file-owners>
+      </base-application-form>
+      <correspondence-form>
+        <source-form>app</source-form>
+        <correspondences>
+          <correspondence action-code="create" version="new">
+            <type-code>a</type-code>
+            <new-address>
+              <name>Joan Taft Kluger</name>
+              <firm-name>Barnes &amp; Thornburg LLP</firm-name>
+              <street>1000 N. West Street, Suite 1500</street>
+              <internal-address />
+              <city>Wilmington</city>
+              <state>Delaware (DE)</state>
+              <postal-code>19801-1054</postal-code>
+              <country-name>United States (USX)</country-name>
+              <phone>302-300-3468</phone>
+              <fax />
+              <email authorized="y">Trademarks-CH@btlaw.com</email>
+              <attorney-docket-number>82065-</attorney-docket-number>
+              <other-appointed-attorney>Julia Spoor Gard, Joseph D. Lewis, Brian McGinnis, Jordan S. Weinstein, Melissa A. Vallone, David A. W. Wong, Olivia Clavio, Kenneth Suzan, Bruce H. Little, Caitlin R. Byczko, Sarah Harrell, Michelle M. Mikol; Joshua Frick</other-appointed-attorney>
+              <attorney-credential>
+                <bar-membership-number>3200</bar-membership-number>
+                <state>Delaware (DE)</state>
+                <admission-year-number>1993</admission-year-number>
+              </attorney-credential>
+            </new-address>
+          </correspondence>
+          <correspondence action-code="create" version="new">
+            <type-code>c</type-code>
+            <new-address>
+              <name>Joan Taft Kluger</name>
+              <firm-name>Barnes &amp; Thornburg LLP</firm-name>
+              <street>1000 N. West Street, Suite 1500</street>
+              <internal-address />
+              <city>Wilmington</city>
+              <state>Delaware (DE)</state>
+              <postal-code>19801-1054</postal-code>
+              <country-name>United States (USX)</country-name>
+              <phone>302-300-3468</phone>
+              <fax />
+              <email authorized="y">Trademarks-CH@btlaw.com;joan.kluger@btlaw.com; judith.wray@btlaw.com</email>
+            </new-address>
+          </correspondence>
+        </correspondences>
+      </correspondence-form>
+    </trademark-case-file>
+    <signatures>
+      <signature action-code="create" version="new">
+        <esignature-type>DIRECT</esignature-type>
+        <signature-type>D</signature-type>
+        <signature-entry-number>1</signature-entry-number>
+        <signature-name>/Joan Taft Kluger/</signature-name>
+        <signatory-date>20200101</signatory-date>
+        <signatory-name>Joan Taft Kluger</signatory-name>
+        <signatory-position>Attorney of Record, DE Bar Member</signatory-position>
+        <phone>302-300-3468</phone>
+      </signature>
+    </signatures>
+    <fee-types>
+      <fee-type action-code="create" version="new">
+        <fee-code>7009</fee-code>
+        <number-of-classes>3</number-of-classes>
+        <number-of-classes-paid>3</number-of-classes-paid>
+        <subtotal-amount>825</subtotal-amount>
+      </fee-type>
+      <total-amount>825</total-amount>
+    </fee-types>
+    <payment action-code="create" version="new">
+      <ram-sale-number>88744223</ram-sale-number>
+      <ram-accounting-date>20200102</ram-accounting-date>
+      <payment-method>CC</payment-method>
+    </payment>
+  </trademark-case-files>
+  <boilerplates>
+    <boilerplate>
+      <boilerplate-type>SIGNATURE.APPLICATION</boilerplate-type>
+      <boilerplate-description>TEAS APP Declaration</boilerplate-description>
+      <boilerplate-text>&lt;b&gt;Basis:&lt;/b&gt;&lt;br/&gt; &lt;b&gt;If the applicant is filing the application based on use in commerce under 15 U.S.C. � 1051(a):&lt;/b&gt; &lt;ul&gt; &lt;li&gt;The signatory believes that the applicant is the owner of the trademark/service mark sought to be registered;&lt;/li&gt; &lt;li&gt;The mark is in use in commerce on or in connection with the goods/services in the application; &lt;/li&gt; &lt;li&gt;The specimen(s) shows the mark as used on or in connection with the goods/services in the application; and&lt;/li&gt; &lt;li&gt;To the best of the signatory's knowledge and belief, the facts recited in the application are accurate.&lt;/li&gt; &lt;/ul&gt; &lt;b&gt;And/Or&lt;/b&gt;&lt;br/&gt; &lt;b&gt;If the applicant is filing the application based on an intent to use the mark in commerce under 15 U.S.C. � 1051(b), � 1126(d), and/or � 1126(e):&lt;/b&gt; &lt;ul&gt; &lt;li&gt;The signatory believes that the applicant is entitled to use the mark in commerce; &lt;/li&gt; &lt;li&gt;The applicant has a bona fide intention to use the mark in commerce on or in connection with the goods/services in the application; and&lt;/li&gt; &lt;li&gt;To the best of the signatory's knowledge and belief, the facts recited in the application are accurate.&lt;/li&gt; &lt;/ul&gt;</boilerplate-text>
+      <boilerplate-text>To the best of the signatory's knowledge and belief, no other persons, except, if applicable, concurrent users, have the right to use the mark in commerce, either in the identical form or in such near resemblance as to be likely, when used on or in connection with the goods/services of such other persons, to cause confusion or mistake, or to deceive.</boilerplate-text>
+      <boilerplate-text>To the best of the signatory's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, the allegations and other factual contentions made above have evidentiary support.</boilerplate-text>
+      <boilerplate-text>The signatory being warned that willful false statements and the like are punishable by fine or imprisonment, or both, under 18 U.S.C. � 1001, and that such willful false statements and the like may jeopardize the validity of the application or submission or any registration resulting therefrom, declares that all statements made of his/her own knowledge are true and all statements made on information and belief are believed to be true.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>MARK</boilerplate-type>
+      <boilerplate-description>Statement for Mark</boilerplate-description>
+      <boilerplate-text>The mark is presented in standard character format without claim to any particular font style, size or color.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>GOODSSERVICES.APP.1B</boilerplate-type>
+      <boilerplate-description>Section 1b Statement</boilerplate-description>
+      <boilerplate-text>Intent to Use: The applicant has a bona fide intention, and is entitled, to use the mark in commerce on or in connection with the identified goods/services.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>E-MAIL AUTHORIZED</boilerplate-type>
+      <boilerplate-description>TEAS RF email authorization</boilerplate-description>
+      <boilerplate-text>I authorize the USPTO to send email correspondence concerning the application to the applicant, the applicant's attorney, or the applicant's domestic representative at the email address provided in this application. I understand that a valid email address must be maintained and that the applicant or the applicant's attorney must file the relevant subsequent application-related submissions via the Trademark Electronic Application System (TEAS). Failure to do so will result in the loss of TEAS Reduced Fee status and a requirement to submit an additional processing fee of $125 per international class of goods/services.</boilerplate-text>
+    </boilerplate>
+    <boilerplate>
+      <boilerplate-type>ATTORNEY.AUTHORIZED</boilerplate-type>
+      <boilerplate-description>Attorney Authorization</boilerplate-description>
+      <boilerplate-text>The attorney of record is an active member in good standing of the bar of the highest court of a U.S. state, the District of Columbia, or any U.S. Commonwealth or territory.</boilerplate-text>
+    </boilerplate>
+  </boilerplates>
+  <filing>
+    <filing-identifier>20200101211324681114-88744223</filing-identifier>
+    <xml-create-date>20200101 21:27:46</xml-create-date>
+    <submit-date>Wed Jan 01 21:28:29 EST 2020</submit-date>
+    <teas-stamp>USPTO/BAS-000.000.000.000-20200101212829137002-88744223-7009b7b589aa15b5100a210e63e11bfe5fcae772da4ab98786d6a0a930888955-CC-28276884-20200101211324681114</teas-stamp>
+    <filing-description>Trademark/Service Mark Application, Principal Register</filing-description>
+    <reply-email>JOAN.KLUGER@BTLAW.COM</reply-email>
+  </filing>
+</uspto-tm-document>
