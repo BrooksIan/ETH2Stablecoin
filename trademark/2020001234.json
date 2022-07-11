@@ -1,0 +1,209 @@
+{
+  "@description": "Base Application Form",
+  "@document-subtype": "rf",
+  "@document-type": "app",
+  "@expiry-date": "02/28/2021",
+  "@form-number": "1478",
+  "@omb-form-note-text": "Under the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless it displays a valid OMB control number.",
+  "@omb-form-number": "0651-0009",
+  "@revision-date": "09/2006",
+  "@system-creator": "eteas",
+  "@version": "6.10",
+  "@version-date": "2019-05-04",
+  "trademark-case-files": {
+    "trademark-case-file": {
+      "case-file-header": {
+        "serial-number": "88744218",
+        "mark": {
+          "@action-code": "create",
+          "@version": "new",
+          "typed-mark": {
+            "@standard-character-format": "y",
+            "mark-text": "CHINA BRAND INSIDER",
+            "file-name": {
+              "@acceptable": "y",
+              "@height": "250",
+              "@image-type": "jpeg",
+              "@width": "602",
+              "#text": "mark.jpg"
+            },
+            "mark-entered": "CHINA BRAND INSIDER"
+          }
+        },
+        "filing-date": "20200101"
+      },
+      "base-application-form": {
+        "goods-services": {
+          "goods-service": {
+            "@action-code": "create",
+            "@version": "new",
+            "sequence-number": "1",
+            "class-code": "035",
+            "description-text": "market reports and studies related to brand integration with entertainment media content in Chinese markets.",
+            "filing-basis-current-1a-in": "Y",
+            "first-use-anywhere-date": "20190820",
+            "first-use-in-commerce-date": "20190820",
+            "specimen": {
+              "@action-code": "create",
+              "@version": "new",
+              "class-code": "035",
+              "file-name": {
+                "@image-type": "pdf",
+                "#text": "SPE0-71190153101-20200101204533284672_._CBI_Studies.pdf"
+              },
+              "description-text": "Screen capture of Applicant's website featuring case study."
+            }
+          }
+        },
+        "case-file-owners": {
+          "case-file-owner": {
+            "@action-code": "create",
+            "@version": "new",
+            "legal-entity-type-code": "01",
+            "name": "Warsh, Larry",
+            "dba-aka-text": [],
+            "street": "1441 3rd Ave.",
+            "internal-address": "23rd Fl.",
+            "city": "New York",
+            "state": "New York (NY)",
+            "postal-code": "10028",
+            "country-name": "United States (USX)",
+            "email": {
+              "@authorized": "n"
+            },
+            "phone": [],
+            "fax": [],
+            "citizenship-country-name": "United States (USX)",
+            "website-address": []
+          }
+        }
+      },
+      "correspondence-form": {
+        "source-form": "app",
+        "correspondences": [
+          {
+            "@action-code": "create",
+            "@version": "new",
+            "type-code": "a",
+            "new-address": {
+              "name": "John Pelosi, Esq.",
+              "firm-name": "Pelosi Wolf Effron & Spates LLP",
+              "street": "233 Broadway",
+              "internal-address": "Ste. 2208",
+              "city": "New York",
+              "state": "New York (NY)",
+              "postal-code": "10279",
+              "country-name": "United States (USX)",
+              "phone": "212-334-3599",
+              "fax": "212-571-9149",
+              "email": {
+                "@authorized": "y",
+                "#text": "jpelosi@pwes.com"
+              },
+              "attorney-docket-number": [],
+              "other-appointed-attorney": "Angelo DiStefano, Esq.",
+              "attorney-credential": {
+                "bar-membership-number": "2282333",
+                "state": "New York (NY)",
+                "admission-year-number": "1989"
+              }
+            }
+          },
+          {
+            "@action-code": "create",
+            "@version": "new",
+            "type-code": "c",
+            "new-address": {
+              "name": "John Pelosi, Esq.",
+              "firm-name": "Pelosi Wolf Effron & Spates LLP",
+              "street": "233 Broadway",
+              "internal-address": "Ste. 2208",
+              "city": "New York",
+              "state": "New York (NY)",
+              "postal-code": "10279",
+              "country-name": "United States (USX)",
+              "phone": "212-334-3599",
+              "fax": "212-571-9149",
+              "email": {
+                "@authorized": "y",
+                "#text": "jpelosi@pwes.com;adistefano@pwes.com"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "signatures": {
+      "signature": {
+        "@action-code": "create",
+        "@version": "new",
+        "esignature-type": "DIRECT",
+        "signature-type": "D",
+        "signature-entry-number": "1",
+        "signature-name": "/John Pelosi/",
+        "signatory-date": "20200101",
+        "signatory-name": "John Pelosi",
+        "signatory-position": "Attorney of record, New York Bar member",
+        "phone": "212-334-3599"
+      }
+    },
+    "fee-types": {
+      "fee-type": {
+        "@action-code": "create",
+        "@version": "new",
+        "fee-code": "7009",
+        "number-of-classes": "1",
+        "number-of-classes-paid": "1",
+        "subtotal-amount": "275"
+      },
+      "total-amount": "275"
+    },
+    "payment": {
+      "@action-code": "create",
+      "@version": "new",
+      "ram-sale-number": "88744218",
+      "ram-accounting-date": "20200102",
+      "payment-method": "CC"
+    }
+  },
+  "boilerplates": [
+    {
+      "boilerplate-type": "SIGNATURE.APPLICATION",
+      "boilerplate-description": "TEAS APP Declaration",
+      "boilerplate-text": [
+        "<b>Basis:<\/b><br/> <b>If the applicant is filing the application based on use in commerce under 15 U.S.C. § 1051(a):<\/b> <ul> <li>The signatory believes that the applicant is the owner of the trademark/service mark sought to be registered;<\/li> <li>The mark is in use in commerce on or in connection with the goods/services in the application; <\/li> <li>The specimen(s) shows the mark as used on or in connection with the goods/services in the application; and<\/li> <li>To the best of the signatory's knowledge and belief, the facts recited in the application are accurate.<\/li> <\/ul> <b>And/Or<\/b><br/> <b>If the applicant is filing the application based on an intent to use the mark in commerce under 15 U.S.C. § 1051(b), § 1126(d), and/or § 1126(e):<\/b> <ul> <li>The signatory believes that the applicant is entitled to use the mark in commerce; <\/li> <li>The applicant has a bona fide intention to use the mark in commerce on or in connection with the goods/services in the application; and<\/li> <li>To the best of the signatory's knowledge and belief, the facts recited in the application are accurate.<\/li> <\/ul>",
+        "To the best of the signatory's knowledge and belief, no other persons, except, if applicable, concurrent users, have the right to use the mark in commerce, either in the identical form or in such near resemblance as to be likely, when used on or in connection with the goods/services of such other persons, to cause confusion or mistake, or to deceive.",
+        "To the best of the signatory's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, the allegations and other factual contentions made above have evidentiary support.",
+        "The signatory being warned that willful false statements and the like are punishable by fine or imprisonment, or both, under 18 U.S.C. § 1001, and that such willful false statements and the like may jeopardize the validity of the application or submission or any registration resulting therefrom, declares that all statements made of his/her own knowledge are true and all statements made on information and belief are believed to be true."
+      ]
+    },
+    {
+      "boilerplate-type": "MARK",
+      "boilerplate-description": "Statement for Mark",
+      "boilerplate-text": "The mark is presented in standard character format without claim to any particular font style, size or color."
+    },
+    {
+      "boilerplate-type": "GOODSSERVICES.APP.1A",
+      "boilerplate-description": "Section 1a Statement",
+      "boilerplate-text": "Use in Commerce: The applicant is using the mark in commerce on or in connection with the identified goods/services. The applicant attaches, or will later submit, one specimen as a JPG/PDF image file showing the mark as used in commerce on or in connection with any item in the class of listed goods/services, regardless of whether the mark itself is in the standard character format or is a stylized or design mark. The specimen image file may be in color, and the image must be in color if color is being claimed as a feature of the mark."
+    },
+    {
+      "boilerplate-type": "E-MAIL AUTHORIZED",
+      "boilerplate-description": "TEAS RF email authorization",
+      "boilerplate-text": "I authorize the USPTO to send email correspondence concerning the application to the applicant, the applicant's attorney, or the applicant's domestic representative at the email address provided in this application. I understand that a valid email address must be maintained and that the applicant or the applicant's attorney must file the relevant subsequent application-related submissions via the Trademark Electronic Application System (TEAS). Failure to do so will result in the loss of TEAS Reduced Fee status and a requirement to submit an additional processing fee of $125 per international class of goods/services."
+    },
+    {
+      "boilerplate-type": "ATTORNEY.AUTHORIZED",
+      "boilerplate-description": "Attorney Authorization",
+      "boilerplate-text": "The attorney of record is an active member in good standing of the bar of the highest court of a U.S. state, the District of Columbia, or any U.S. Commonwealth or territory."
+    }
+  ],
+  "filing": {
+    "filing-identifier": "20200101204533284672-88744218",
+    "xml-create-date": "20200101 20:50:56",
+    "submit-date": "Wed Jan 01 20:54:39 EST 2020",
+    "teas-stamp": "USPTO/BAS-71.190.153.101-20200101205439879491-88744218-70080293a958c8b69cfb9cfb07d6ec7195b5c344e6c747a7081397a9adc94b8c80-CC-54386852-20200101204533284672",
+    "filing-description": "Trademark/Service Mark Application, Principal Register",
+    "reply-email": "jpelosi@pwes.com;adistefano@pwes.com"
+  }
+}
